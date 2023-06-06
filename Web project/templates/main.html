@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Système de recommandation - Santé</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.0/dist/js.cookie.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css" integrity="sha384-b6lVK+yci+bfDmaY1u0zE8YYJt0TZxLEAFyYSLHId4xoVvsrQu3INevFKo+Xir8e" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href={{ url_for('static', filename='css/styles.css') }}>
+  </head>
+  <body>
+    <div>
+        <h2 class="text-white mt-3">
+            Système de recommandation intéractif
+        </h2>
+    </div>
+    <div class="response"></div>
+    <div class="footer"></div>
+    <div class="bottom">
+        <form class="chatForm">
+            <input type="text" class="userQuestion"/>
+                <svg class="sendButton" onclick="sendQuery()" troke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20" class="h-4 w-4 rotate-90" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z"></path></svg>
+                <svg id="dots" width="132px" height="58px" viewBox="0 0 132 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+                    <title>dots</title>
+                    <desc>Created with Sketch.</desc>
+                    <defs></defs>
+                    <g id="dotsWrapper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+                        <g sketch:type="MSArtboardGroup" fill="#A3A3A3">
+                            <circle id="dot1" sketch:type="MSShapeGroup" cx="90" cy="30" r="3"></circle>
+                            <circle id="dot2" sketch:type="MSShapeGroup" cx="100" cy="30" r="3"></circle>
+                            <circle id="dot3" sketch:type="MSShapeGroup" cx="110" cy="30" r="3"></circle>
+                        </g>
+                    </g>
+                </svg>
+        </form>
+        <div class="disclaimer">Ce système offre la capacité de prédire les maladies en se basant sur les symptômes présentés, tout en proposant des mesures de précaution à prendre en considération.</div>    
+    </div>
+
+    <script src={{ url_for('static', filename='js/main.js') }}></script>
+  </body>
+</html>

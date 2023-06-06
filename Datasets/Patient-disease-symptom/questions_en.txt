@@ -1,0 +1,223 @@
+Do you have a fever (either felt or measured with a thermometer)? fievre
+Do you feel pain somewhere? douleurxx_endroitducorps_@_nulle_part, douleurxx_endroitducorps_@_aile_iliaque_D_, douleurxx_endroitducorps_@_aile_iliaque_G_, douleurxx_endroitducorps_@_aine_D_, douleurxx_endroitducorps_@_aine_G_, douleurxx_endroitducorps_@_aisselle_D_, douleurxx_endroitducorps_@_aisselle_G_, douleurxx_endroitducorps_@_amygdale_D_, douleurxx_endroitducorps_@_amygdale_G_, douleurxx_endroitducorps_@_anus, douleurxx_endroitducorps_@_arrière_de_la_cheville_D_, douleurxx_endroitducorps_@_arrière_de_la_cheville_G_, douleurxx_endroitducorps_@_arrière_de_tête, douleurxx_endroitducorps_@_arrière_du_cou, douleurxx_endroitducorps_@_avant-bras_D_, douleurxx_endroitducorps_@_avant-bras_G_, douleurxx_endroitducorps_@_bas_du_thorax, douleurxx_endroitducorps_@_biceps_D_, douleurxx_endroitducorps_@_biceps_G_, douleurxx_endroitducorps_@_bouche, douleurxx_endroitducorps_@_cartilage_thyroidien, douleurxx_endroitducorps_@_cheville_D_, douleurxx_endroitducorps_@_cheville_G_, douleurxx_endroitducorps_@_clitoris, douleurxx_endroitducorps_@_coccyx, douleurxx_endroitducorps_@_colonne_cervicale, douleurxx_endroitducorps_@_colonne_dorsale, douleurxx_endroitducorps_@_colonne_lombaire, douleurxx_endroitducorps_@_commissure_D_, douleurxx_endroitducorps_@_commissure_G_, douleurxx_endroitducorps_@_coté_lateral_du_pied_D_, douleurxx_endroitducorps_@_coté_lateral_du_pied_G_, douleurxx_endroitducorps_@_coude_D_, douleurxx_endroitducorps_@_coude_G_, douleurxx_endroitducorps_@_creux_poplité_D_, douleurxx_endroitducorps_@_creux_poplité_G_, douleurxx_endroitducorps_@_crête_iliaque_D_, douleurxx_endroitducorps_@_crête_iliaque_G_, douleurxx_endroitducorps_@_cuisse_D_, douleurxx_endroitducorps_@_cuisse_G_, douleurxx_endroitducorps_@_côté_du_cou_D_, douleurxx_endroitducorps_@_côté_du_cou_G_, douleurxx_endroitducorps_@_côté_du_thorax_D_, douleurxx_endroitducorps_@_côté_du_thorax_G_, douleurxx_endroitducorps_@_dents_inférieures_D_, douleurxx_endroitducorps_@_dents_inférieures_G_, douleurxx_endroitducorps_@_dents_supérieures_D_, douleurxx_endroitducorps_@_dents_supérieures_G_, douleurxx_endroitducorps_@_dessus_de_la_langue, douleurxx_endroitducorps_@_dessus_de_tête, douleurxx_endroitducorps_@_doigt_annulaire__D_, douleurxx_endroitducorps_@_doigt_annulaire__G_, douleurxx_endroitducorps_@_doigt_auriculaire__D_, douleurxx_endroitducorps_@_doigt_auriculaire__G_, douleurxx_endroitducorps_@_doigt_index__D_, douleurxx_endroitducorps_@_doigt_index__G_, douleurxx_endroitducorps_@_doigt_majeur__D_, douleurxx_endroitducorps_@_doigt_majeur__G_, douleurxx_endroitducorps_@_face_dorsale_du_pied_D_, douleurxx_endroitducorps_@_face_dorsale_du_pied_G_, douleurxx_endroitducorps_@_face_dorsale_du_poignet_D_, douleurxx_endroitducorps_@_face_dorsale_du_poignet_G_, douleurxx_endroitducorps_@_face_dorsale_main_D_, douleurxx_endroitducorps_@_face_dorsale_main_G_, douleurxx_endroitducorps_@_face_palmaire_de_l_avant-bras_D_, douleurxx_endroitducorps_@_face_palmaire_de_l_avant-bras_G_, douleurxx_endroitducorps_@_face_palmaire_du_poignet_D_, douleurxx_endroitducorps_@_face_palmaire_du_poignet_G_, douleurxx_endroitducorps_@_fesse_D_, douleurxx_endroitducorps_@_fesse_G_, douleurxx_endroitducorps_@_flanc_D_, douleurxx_endroitducorps_@_flanc_G_, douleurxx_endroitducorps_@_fosse_iliaque_D_, douleurxx_endroitducorps_@_fosse_iliaque_G_, douleurxx_endroitducorps_@_front, douleurxx_endroitducorps_@_gencive_inférieure, douleurxx_endroitducorps_@_gencive_supérieure, douleurxx_endroitducorps_@_genou_D_, douleurxx_endroitducorps_@_genou_G_, douleurxx_endroitducorps_@_gland, douleurxx_endroitducorps_@_grande_lèvre_D_, douleurxx_endroitducorps_@_grande_lèvre_G_, douleurxx_endroitducorps_@_gros_orteil_D_, douleurxx_endroitducorps_@_gros_orteil_G_, douleurxx_endroitducorps_@_hanche_D_, douleurxx_endroitducorps_@_hanche_G_, douleurxx_endroitducorps_@_haut_du_thorax, douleurxx_endroitducorps_@_hymen, douleurxx_endroitducorps_@_hypochondre_D_, douleurxx_endroitducorps_@_hypochondre_G_, douleurxx_endroitducorps_@_ischio_D_, douleurxx_endroitducorps_@_ischio_G_, douleurxx_endroitducorps_@_joue_D_, douleurxx_endroitducorps_@_joue_G_, douleurxx_endroitducorps_@_joue_interne_D_, douleurxx_endroitducorps_@_joue_interne_G_, douleurxx_endroitducorps_@_loge_renale_D_, douleurxx_endroitducorps_@_loge_renale_G_, douleurxx_endroitducorps_@_luette, douleurxx_endroitducorps_@_lèvre_inferieure_D_, douleurxx_endroitducorps_@_lèvre_supérieure_D_, douleurxx_endroitducorps_@_menton, douleurxx_endroitducorps_@_mollet_D_, douleurxx_endroitducorps_@_mollet_G_, douleurxx_endroitducorps_@_mâchoire, douleurxx_endroitducorps_@_nez, douleurxx_endroitducorps_@_occiput, douleurxx_endroitducorps_@_oeil_D_, douleurxx_endroitducorps_@_oeil_G_, douleurxx_endroitducorps_@_omoplate_D_, douleurxx_endroitducorps_@_omoplate_G_, douleurxx_endroitducorps_@_oreille_D_, douleurxx_endroitducorps_@_oreille_G_, douleurxx_endroitducorps_@_orteil__1__D_, douleurxx_endroitducorps_@_orteil__1__G_, douleurxx_endroitducorps_@_orteil__2__D_, douleurxx_endroitducorps_@_orteil__2__G_, douleurxx_endroitducorps_@_orteil__3__D_, douleurxx_endroitducorps_@_orteil__3__G_, douleurxx_endroitducorps_@_palais, douleurxx_endroitducorps_@_paroi_vaginale, douleurxx_endroitducorps_@_paroi_vaginale_D_, douleurxx_endroitducorps_@_paroi_vaginale_G_, douleurxx_endroitducorps_@_paume_D_, douleurxx_endroitducorps_@_paume_G_, douleurxx_endroitducorps_@_petit_orteil__4__D_, douleurxx_endroitducorps_@_petit_orteil__4__G_, douleurxx_endroitducorps_@_petite_lèvre_D_, douleurxx_endroitducorps_@_petite_lèvre_G_, douleurxx_endroitducorps_@_pharynx, douleurxx_endroitducorps_@_plante_du_pied_D_, douleurxx_endroitducorps_@_plante_du_pied_G_, douleurxx_endroitducorps_@_pouce_D_, douleurxx_endroitducorps_@_pouce_G_, douleurxx_endroitducorps_@_pubis, douleurxx_endroitducorps_@_pénis, douleurxx_endroitducorps_@_scrotum, douleurxx_endroitducorps_@_sein_D_, douleurxx_endroitducorps_@_sein_G_, douleurxx_endroitducorps_@_sous_la_langue, douleurxx_endroitducorps_@_sous_la_machoire, douleurxx_endroitducorps_@_talon_D_, douleurxx_endroitducorps_@_talon_G_, douleurxx_endroitducorps_@_tempe_D_, douleurxx_endroitducorps_@_tempe_G_, douleurxx_endroitducorps_@_testicule_D_, douleurxx_endroitducorps_@_testicule_G_, douleurxx_endroitducorps_@_thorax_postérieur_D_, douleurxx_endroitducorps_@_thorax_postérieur_G_, douleurxx_endroitducorps_@_tibia_D_, douleurxx_endroitducorps_@_tibia_G_, douleurxx_endroitducorps_@_trachée, douleurxx_endroitducorps_@_trapèze_D_, douleurxx_endroitducorps_@_trapèze_G_, douleurxx_endroitducorps_@_triceps_D_, douleurxx_endroitducorps_@_triceps_G_, douleurxx_endroitducorps_@_urètre, douleurxx_endroitducorps_@_vagin, douleurxx_endroitducorps_@_ventre, douleurxx_endroitducorps_@_vermillon_D_, douleurxx_endroitducorps_@_vermillon_G_, douleurxx_endroitducorps_@_vestibule, douleurxx_endroitducorps_@_épaule_D_, douleurxx_endroitducorps_@_épaule_G_, douleurxx_endroitducorps_@_épigastre, 
+Do you have pain somewhere, related to your reason for consulting? douleurxx
+Does the pain radiate to another location? douleurxx_irrad_@_nulle_part, douleurxx_irrad_@_aile_iliaque_D_, douleurxx_irrad_@_aile_iliaque_G_, douleurxx_irrad_@_aine_D_, douleurxx_irrad_@_aine_G_, douleurxx_irrad_@_aisselle_D_, douleurxx_irrad_@_aisselle_G_, douleurxx_irrad_@_amygdale_D_, douleurxx_irrad_@_amygdale_G_, douleurxx_irrad_@_anus, douleurxx_irrad_@_arrière_de_la_cheville_D_, douleurxx_irrad_@_arrière_de_la_cheville_G_, douleurxx_irrad_@_arrière_de_tête, douleurxx_irrad_@_arrière_du_cou, douleurxx_irrad_@_avant-bras_D_, douleurxx_irrad_@_avant-bras_G_, douleurxx_irrad_@_bas_du_thorax, douleurxx_irrad_@_biceps_D_, douleurxx_irrad_@_biceps_G_, douleurxx_irrad_@_bouche, douleurxx_irrad_@_cartilage_thyroidien, douleurxx_irrad_@_cheville_D_, douleurxx_irrad_@_cheville_G_, douleurxx_irrad_@_clitoris, douleurxx_irrad_@_coccyx, douleurxx_irrad_@_colonne_cervicale, douleurxx_irrad_@_colonne_dorsale, douleurxx_irrad_@_colonne_lombaire, douleurxx_irrad_@_commissure_D_, douleurxx_irrad_@_commissure_G_, douleurxx_irrad_@_coté_lateral_du_pied_D_, douleurxx_irrad_@_coté_lateral_du_pied_G_, douleurxx_irrad_@_coude_D_, douleurxx_irrad_@_coude_G_, douleurxx_irrad_@_creux_poplité_D_, douleurxx_irrad_@_creux_poplité_G_, douleurxx_irrad_@_crête_iliaque_D_, douleurxx_irrad_@_crête_iliaque_G_, douleurxx_irrad_@_cuisse_D_, douleurxx_irrad_@_cuisse_G_, douleurxx_irrad_@_côté_du_cou_D_, douleurxx_irrad_@_côté_du_cou_G_, douleurxx_irrad_@_côté_du_thorax_D_, douleurxx_irrad_@_côté_du_thorax_G_, douleurxx_irrad_@_dents_inférieures_D_, douleurxx_irrad_@_dents_inférieures_G_, douleurxx_irrad_@_dents_supérieures_D_, douleurxx_irrad_@_dents_supérieures_G_, douleurxx_irrad_@_dessus_de_la_langue, douleurxx_irrad_@_dessus_de_tête, douleurxx_irrad_@_doigt_annulaire__D_, douleurxx_irrad_@_doigt_annulaire__G_, douleurxx_irrad_@_doigt_auriculaire__D_, douleurxx_irrad_@_doigt_auriculaire__G_, douleurxx_irrad_@_doigt_index__D_, douleurxx_irrad_@_doigt_index__G_, douleurxx_irrad_@_doigt_majeur__D_, douleurxx_irrad_@_doigt_majeur__G_, douleurxx_irrad_@_face_dorsale_du_pied_D_, douleurxx_irrad_@_face_dorsale_du_pied_G_, douleurxx_irrad_@_face_dorsale_du_poignet_D_, douleurxx_irrad_@_face_dorsale_du_poignet_G_, douleurxx_irrad_@_face_dorsale_main_D_, douleurxx_irrad_@_face_dorsale_main_G_, douleurxx_irrad_@_face_palmaire_de_l_avant-bras_D_, douleurxx_irrad_@_face_palmaire_de_l_avant-bras_G_, douleurxx_irrad_@_face_palmaire_du_poignet_D_, douleurxx_irrad_@_face_palmaire_du_poignet_G_, douleurxx_irrad_@_fesse_D_, douleurxx_irrad_@_fesse_G_, douleurxx_irrad_@_flanc_D_, douleurxx_irrad_@_flanc_G_, douleurxx_irrad_@_fosse_iliaque_D_, douleurxx_irrad_@_fosse_iliaque_G_, douleurxx_irrad_@_front, douleurxx_irrad_@_gencive_inférieure, douleurxx_irrad_@_gencive_supérieure, douleurxx_irrad_@_genou_D_, douleurxx_irrad_@_genou_G_, douleurxx_irrad_@_gland, douleurxx_irrad_@_grande_lèvre_D_, douleurxx_irrad_@_grande_lèvre_G_, douleurxx_irrad_@_gros_orteil_D_, douleurxx_irrad_@_gros_orteil_G_, douleurxx_irrad_@_hanche_D_, douleurxx_irrad_@_hanche_G_, douleurxx_irrad_@_haut_du_thorax, douleurxx_irrad_@_hymen, douleurxx_irrad_@_hypochondre_D_, douleurxx_irrad_@_hypochondre_G_, douleurxx_irrad_@_ischio_D_, douleurxx_irrad_@_ischio_G_, douleurxx_irrad_@_joue_D_, douleurxx_irrad_@_joue_G_, douleurxx_irrad_@_joue_interne_D_, douleurxx_irrad_@_joue_interne_G_, douleurxx_irrad_@_loge_renale_D_, douleurxx_irrad_@_loge_renale_G_, douleurxx_irrad_@_luette, douleurxx_irrad_@_lèvre_inferieure_D_, douleurxx_irrad_@_lèvre_supérieure_D_, douleurxx_irrad_@_menton, douleurxx_irrad_@_mollet_D_, douleurxx_irrad_@_mollet_G_, douleurxx_irrad_@_mâchoire, douleurxx_irrad_@_nez, douleurxx_irrad_@_occiput, douleurxx_irrad_@_oeil_D_, douleurxx_irrad_@_oeil_G_, douleurxx_irrad_@_omoplate_D_, douleurxx_irrad_@_omoplate_G_, douleurxx_irrad_@_oreille_D_, douleurxx_irrad_@_oreille_G_, douleurxx_irrad_@_orteil__1__D_, douleurxx_irrad_@_orteil__1__G_, douleurxx_irrad_@_orteil__2__D_, douleurxx_irrad_@_orteil__2__G_, douleurxx_irrad_@_orteil__3__D_, douleurxx_irrad_@_orteil__3__G_, douleurxx_irrad_@_palais, douleurxx_irrad_@_paroi_vaginale, douleurxx_irrad_@_paroi_vaginale_D_, douleurxx_irrad_@_paroi_vaginale_G_, douleurxx_irrad_@_paume_D_, douleurxx_irrad_@_paume_G_, douleurxx_irrad_@_petit_orteil__4__D_, douleurxx_irrad_@_petit_orteil__4__G_, douleurxx_irrad_@_petite_lèvre_D_, douleurxx_irrad_@_petite_lèvre_G_, douleurxx_irrad_@_pharynx, douleurxx_irrad_@_plante_du_pied_D_, douleurxx_irrad_@_plante_du_pied_G_, douleurxx_irrad_@_pouce_D_, douleurxx_irrad_@_pouce_G_, douleurxx_irrad_@_pubis, douleurxx_irrad_@_pénis, douleurxx_irrad_@_scrotum, douleurxx_irrad_@_sein_D_, douleurxx_irrad_@_sein_G_, douleurxx_irrad_@_sous_la_langue, douleurxx_irrad_@_sous_la_machoire, douleurxx_irrad_@_talon_D_, douleurxx_irrad_@_talon_G_, douleurxx_irrad_@_tempe_D_, douleurxx_irrad_@_tempe_G_, douleurxx_irrad_@_testicule_D_, douleurxx_irrad_@_testicule_G_, douleurxx_irrad_@_thorax_postérieur_D_, douleurxx_irrad_@_thorax_postérieur_G_, douleurxx_irrad_@_tibia_D_, douleurxx_irrad_@_tibia_G_, douleurxx_irrad_@_trachée, douleurxx_irrad_@_trapèze_D_, douleurxx_irrad_@_trapèze_G_, douleurxx_irrad_@_triceps_D_, douleurxx_irrad_@_triceps_G_, douleurxx_irrad_@_urètre, douleurxx_irrad_@_vagin, douleurxx_irrad_@_ventre, douleurxx_irrad_@_vermillon_D_, douleurxx_irrad_@_vermillon_G_, douleurxx_irrad_@_vestibule, douleurxx_irrad_@_épaule_D_, douleurxx_irrad_@_épaule_G_, douleurxx_irrad_@_épigastre, 
+Characterize your pain: douleurxx_carac_@_NA, douleurxx_carac_@_déchirante, douleurxx_carac_@_lancinante_/_choc_électrique, douleurxx_carac_@_pénible, douleurxx_carac_@_sensible, douleurxx_carac_@_un_coup_de_couteau, douleurxx_carac_@_un_tiraillement, douleurxx_carac_@_une_brûlure_ou_chaleur, douleurxx_carac_@_une_crampe, douleurxx_carac_@_une_lourdeur_ou_serrement, douleurxx_carac_@_une_pulsation, douleurxx_carac_@_violente, douleurxx_carac_@_vive, douleurxx_carac_@_écoeurante, douleurxx_carac_@_épeurante, douleurxx_carac_@_épuisante, 
+How fast did the pain appear? douleurxx_soudain_@_0, douleurxx_soudain_@_1, douleurxx_soudain_@_2, douleurxx_soudain_@_3, douleurxx_soudain_@_4, douleurxx_soudain_@_5, douleurxx_soudain_@_6, douleurxx_soudain_@_7, douleurxx_soudain_@_8, douleurxx_soudain_@_9, douleurxx_soudain_@_10, 
+How intense is the pain? douleurxx_intens_@_0, douleurxx_intens_@_1, douleurxx_intens_@_2, douleurxx_intens_@_3, douleurxx_intens_@_4, douleurxx_intens_@_5, douleurxx_intens_@_6, douleurxx_intens_@_7, douleurxx_intens_@_8, douleurxx_intens_@_9, douleurxx_intens_@_10, 
+How precisely is the pain located? douleurxx_precis_@_0, douleurxx_precis_@_1, douleurxx_precis_@_2, douleurxx_precis_@_3, douleurxx_precis_@_4, douleurxx_precis_@_5, douleurxx_precis_@_6, douleurxx_precis_@_7, douleurxx_precis_@_8, douleurxx_precis_@_9, douleurxx_precis_@_10, 
+Did you lose consciousness? pdc
+Where is the affected region located? lesions_peau_endroitducorps_@_nulle_part, lesions_peau_endroitducorps_@_aile_iliaque_D_, lesions_peau_endroitducorps_@_aile_iliaque_G_, lesions_peau_endroitducorps_@_aine_D_, lesions_peau_endroitducorps_@_aine_G_, lesions_peau_endroitducorps_@_aisselle_D_, lesions_peau_endroitducorps_@_aisselle_G_, lesions_peau_endroitducorps_@_amygdale_D_, lesions_peau_endroitducorps_@_amygdale_G_, lesions_peau_endroitducorps_@_anus, lesions_peau_endroitducorps_@_arrière_de_la_cheville_D_, lesions_peau_endroitducorps_@_arrière_de_la_cheville_G_, lesions_peau_endroitducorps_@_arrière_de_tête, lesions_peau_endroitducorps_@_arrière_du_cou, lesions_peau_endroitducorps_@_avant-bras_D_, lesions_peau_endroitducorps_@_avant-bras_G_, lesions_peau_endroitducorps_@_bas_du_thorax, lesions_peau_endroitducorps_@_biceps_D_, lesions_peau_endroitducorps_@_biceps_G_, lesions_peau_endroitducorps_@_bouche, lesions_peau_endroitducorps_@_cartilage_thyroidien, lesions_peau_endroitducorps_@_cheville_D_, lesions_peau_endroitducorps_@_cheville_G_, lesions_peau_endroitducorps_@_clitoris, lesions_peau_endroitducorps_@_coccyx, lesions_peau_endroitducorps_@_colonne_cervicale, lesions_peau_endroitducorps_@_colonne_dorsale, lesions_peau_endroitducorps_@_colonne_lombaire, lesions_peau_endroitducorps_@_commissure_D_, lesions_peau_endroitducorps_@_commissure_G_, lesions_peau_endroitducorps_@_coté_lateral_du_pied_D_, lesions_peau_endroitducorps_@_coté_lateral_du_pied_G_, lesions_peau_endroitducorps_@_coude_D_, lesions_peau_endroitducorps_@_coude_G_, lesions_peau_endroitducorps_@_creux_poplité_D_, lesions_peau_endroitducorps_@_creux_poplité_G_, lesions_peau_endroitducorps_@_crête_iliaque_D_, lesions_peau_endroitducorps_@_crête_iliaque_G_, lesions_peau_endroitducorps_@_cuisse_D_, lesions_peau_endroitducorps_@_cuisse_G_, lesions_peau_endroitducorps_@_côté_du_cou_D_, lesions_peau_endroitducorps_@_côté_du_cou_G_, lesions_peau_endroitducorps_@_côté_du_thorax_D_, lesions_peau_endroitducorps_@_côté_du_thorax_G_, lesions_peau_endroitducorps_@_dents_inférieures_D_, lesions_peau_endroitducorps_@_dents_inférieures_G_, lesions_peau_endroitducorps_@_dents_supérieures_D_, lesions_peau_endroitducorps_@_dents_supérieures_G_, lesions_peau_endroitducorps_@_dessus_de_la_langue, lesions_peau_endroitducorps_@_dessus_de_tête, lesions_peau_endroitducorps_@_doigt_annulaire__D_, lesions_peau_endroitducorps_@_doigt_annulaire__G_, lesions_peau_endroitducorps_@_doigt_auriculaire__D_, lesions_peau_endroitducorps_@_doigt_auriculaire__G_, lesions_peau_endroitducorps_@_doigt_index__D_, lesions_peau_endroitducorps_@_doigt_index__G_, lesions_peau_endroitducorps_@_doigt_majeur__D_, lesions_peau_endroitducorps_@_doigt_majeur__G_, lesions_peau_endroitducorps_@_face_dorsale_du_pied_D_, lesions_peau_endroitducorps_@_face_dorsale_du_pied_G_, lesions_peau_endroitducorps_@_face_dorsale_du_poignet_D_, lesions_peau_endroitducorps_@_face_dorsale_du_poignet_G_, lesions_peau_endroitducorps_@_face_dorsale_main_D_, lesions_peau_endroitducorps_@_face_dorsale_main_G_, lesions_peau_endroitducorps_@_face_palmaire_de_l_avant-bras_D_, lesions_peau_endroitducorps_@_face_palmaire_de_l_avant-bras_G_, lesions_peau_endroitducorps_@_face_palmaire_du_poignet_D_, lesions_peau_endroitducorps_@_face_palmaire_du_poignet_G_, lesions_peau_endroitducorps_@_fesse_D_, lesions_peau_endroitducorps_@_fesse_G_, lesions_peau_endroitducorps_@_flanc_D_, lesions_peau_endroitducorps_@_flanc_G_, lesions_peau_endroitducorps_@_fosse_iliaque_D_, lesions_peau_endroitducorps_@_fosse_iliaque_G_, lesions_peau_endroitducorps_@_front, lesions_peau_endroitducorps_@_gencive_inférieure, lesions_peau_endroitducorps_@_gencive_supérieure, lesions_peau_endroitducorps_@_genou_D_, lesions_peau_endroitducorps_@_genou_G_, lesions_peau_endroitducorps_@_gland, lesions_peau_endroitducorps_@_grande_lèvre_D_, lesions_peau_endroitducorps_@_grande_lèvre_G_, lesions_peau_endroitducorps_@_gros_orteil_D_, lesions_peau_endroitducorps_@_gros_orteil_G_, lesions_peau_endroitducorps_@_hanche_D_, lesions_peau_endroitducorps_@_hanche_G_, lesions_peau_endroitducorps_@_haut_du_thorax, lesions_peau_endroitducorps_@_hymen, lesions_peau_endroitducorps_@_hypochondre_D_, lesions_peau_endroitducorps_@_hypochondre_G_, lesions_peau_endroitducorps_@_ischio_D_, lesions_peau_endroitducorps_@_ischio_G_, lesions_peau_endroitducorps_@_joue_D_, lesions_peau_endroitducorps_@_joue_G_, lesions_peau_endroitducorps_@_joue_interne_D_, lesions_peau_endroitducorps_@_joue_interne_G_, lesions_peau_endroitducorps_@_loge_renale_D_, lesions_peau_endroitducorps_@_loge_renale_G_, lesions_peau_endroitducorps_@_luette, lesions_peau_endroitducorps_@_lèvre_inferieure_D_, lesions_peau_endroitducorps_@_lèvre_supérieure_D_, lesions_peau_endroitducorps_@_menton, lesions_peau_endroitducorps_@_mollet_D_, lesions_peau_endroitducorps_@_mollet_G_, lesions_peau_endroitducorps_@_mâchoire, lesions_peau_endroitducorps_@_nez, lesions_peau_endroitducorps_@_occiput, lesions_peau_endroitducorps_@_oeil_D_, lesions_peau_endroitducorps_@_oeil_G_, lesions_peau_endroitducorps_@_omoplate_D_, lesions_peau_endroitducorps_@_omoplate_G_, lesions_peau_endroitducorps_@_oreille_D_, lesions_peau_endroitducorps_@_oreille_G_, lesions_peau_endroitducorps_@_orteil__1__D_, lesions_peau_endroitducorps_@_orteil__1__G_, lesions_peau_endroitducorps_@_orteil__2__D_, lesions_peau_endroitducorps_@_orteil__2__G_, lesions_peau_endroitducorps_@_orteil__3__D_, lesions_peau_endroitducorps_@_orteil__3__G_, lesions_peau_endroitducorps_@_palais, lesions_peau_endroitducorps_@_paroi_vaginale, lesions_peau_endroitducorps_@_paroi_vaginale_D_, lesions_peau_endroitducorps_@_paroi_vaginale_G_, lesions_peau_endroitducorps_@_paume_D_, lesions_peau_endroitducorps_@_paume_G_, lesions_peau_endroitducorps_@_petit_orteil__4__D_, lesions_peau_endroitducorps_@_petit_orteil__4__G_, lesions_peau_endroitducorps_@_petite_lèvre_D_, lesions_peau_endroitducorps_@_petite_lèvre_G_, lesions_peau_endroitducorps_@_pharynx, lesions_peau_endroitducorps_@_plante_du_pied_D_, lesions_peau_endroitducorps_@_plante_du_pied_G_, lesions_peau_endroitducorps_@_pouce_D_, lesions_peau_endroitducorps_@_pouce_G_, lesions_peau_endroitducorps_@_pubis, lesions_peau_endroitducorps_@_pénis, lesions_peau_endroitducorps_@_scrotum, lesions_peau_endroitducorps_@_sein_D_, lesions_peau_endroitducorps_@_sein_G_, lesions_peau_endroitducorps_@_sous_la_langue, lesions_peau_endroitducorps_@_sous_la_machoire, lesions_peau_endroitducorps_@_talon_D_, lesions_peau_endroitducorps_@_talon_G_, lesions_peau_endroitducorps_@_tempe_D_, lesions_peau_endroitducorps_@_tempe_G_, lesions_peau_endroitducorps_@_testicule_D_, lesions_peau_endroitducorps_@_testicule_G_, lesions_peau_endroitducorps_@_thorax_postérieur_D_, lesions_peau_endroitducorps_@_thorax_postérieur_G_, lesions_peau_endroitducorps_@_tibia_D_, lesions_peau_endroitducorps_@_tibia_G_, lesions_peau_endroitducorps_@_trachée, lesions_peau_endroitducorps_@_trapèze_D_, lesions_peau_endroitducorps_@_trapèze_G_, lesions_peau_endroitducorps_@_triceps_D_, lesions_peau_endroitducorps_@_triceps_G_, lesions_peau_endroitducorps_@_urètre, lesions_peau_endroitducorps_@_vagin, lesions_peau_endroitducorps_@_ventre, lesions_peau_endroitducorps_@_vermillon_D_, lesions_peau_endroitducorps_@_vermillon_G_, lesions_peau_endroitducorps_@_vestibule, lesions_peau_endroitducorps_@_épaule_D_, lesions_peau_endroitducorps_@_épaule_G_, lesions_peau_endroitducorps_@_épigastre, 
+Do you have any lesions, redness or problems on your skin that you believe are related to the condition you are consulting for? lesions_peau
+What color is the rash? lesions_peau_couleur_@_NA, lesions_peau_couleur_@_foncee, lesions_peau_couleur_@_jaune, lesions_peau_couleur_@_pale, lesions_peau_couleur_@_rose, lesions_peau_couleur_@_rouge, 
+How intense is the pain caused by the rash? lesions_peau_intens_@_0, lesions_peau_intens_@_1, lesions_peau_intens_@_2, lesions_peau_intens_@_3, lesions_peau_intens_@_4, lesions_peau_intens_@_5, lesions_peau_intens_@_6, lesions_peau_intens_@_7, lesions_peau_intens_@_8, lesions_peau_intens_@_9, lesions_peau_intens_@_10, 
+Is the rash swollen? lesions_peau_elevee_@_0, lesions_peau_elevee_@_1, lesions_peau_elevee_@_2, lesions_peau_elevee_@_3, lesions_peau_elevee_@_4, lesions_peau_elevee_@_5, lesions_peau_elevee_@_6, lesions_peau_elevee_@_7, lesions_peau_elevee_@_8, lesions_peau_elevee_@_9, lesions_peau_elevee_@_10, 
+How severe is the itching? lesions_peau_prurit_@_0, lesions_peau_prurit_@_1, lesions_peau_prurit_@_2, lesions_peau_prurit_@_3, lesions_peau_prurit_@_4, lesions_peau_prurit_@_5, lesions_peau_prurit_@_6, lesions_peau_prurit_@_7, lesions_peau_prurit_@_8, lesions_peau_prurit_@_9, lesions_peau_prurit_@_10, 
+Is the lesion (or are the lesions) larger than 1cm? lesions_peau_plusqu1cm_@_N, lesions_peau_plusqu1cm_@_O, 
+Do your lesions peel off? lesions_peau_desquame_@_N, lesions_peau_desquame_@_O, 
+Is your skin much paler than usual? pale
+Do you feel your heart is beating fast (racing), irregularly (missing a beat) or do you feel palpitations? palpit
+Have you recently thrown up blood or something resembling coffee beans? vo_sg
+Have you recently had stools that were black (like coal)? melena
+Have you had diarrhea or an increase in stool frequency? diarrhee
+Do you feel like you are (or were) choking or suffocating? etouff
+Do you constantly feel fatigued or do you have non-restful sleep? fatig_mod
+Are you more irritable or has your mood been very unstable recently? irritable
+Do you feel lightheaded and dizzy or do you feel like you are about to faint? faible
+Are you feeling nauseous or do you feel like vomiting? nausee
+Have you had chills or shivers? friss
+Do you have pain that is increased when you breathe in deeply? ww_respi
+Have you recently had a loss of appetite or do you get full more quickly then usually? perte_appet
+Have you noticed light red blood or blood clots in your stool? rectorragie
+Have you had an involuntary weight loss over the last 3 months? perte_poids
+Do you have a burning sensation that starts in your stomach then goes up into your throat, and can be associated with a bitter taste in your mouth? pyrosis
+Do you have pain that improves when you lean forward? bw_bending
+Do you have symptoms that are increased with physical exertion but alleviated with rest? ww_effort
+Do you have numbness, loss of sensation or tingling in the feet? footnumb
+Are you experiencing shortness of breath or difficulty breathing in a significant way? dyspn
+Have you had any vaginal discharge? pertes_vag
+Do you feel your abdomen is bloated or distended (swollen due to pressure from inside)? ballon_abdo
+Do you feel that your eyes produce excessive tears? larmes
+Do you have nasal congestion or a clear runny nose? rhino_clair
+Do you feel so tired that you are unable to do your usual activities or are you stuck in your bed all day long? fatig_ext
+Have you lost consciousness associated with violent and sustained muscle contractions or had an absence episode? convulsion
+Have you had weakness or paralysis on one side of the face, which may still be present or completely resolved? paralysie_visage
+Do you have diffuse (widespread) muscle pain? msk_dlr
+Do you have pain that is increased with movement? ww_bouger
+Do you have a cough? toux
+Are your symptoms worse when lying down and alleviated while sitting up? ww_dd
+Do you have symptoms that get worse after eating? ww_bouffe
+Do you feel out of breath with minimal physical effort? dysp_effort
+Have you gained weight recently? gain_poids
+Do you feel anxious? anxiete_s
+Have you had significantly increased sweating? diaph
+Do you have a sore throat? gorge_dlr
+Do you have swollen or painful lymph nodes? adp_dlr
+Do you feel slightly dizzy or lightheaded? etourdissement
+Are you consulting because you have high blood pressure? hta
+Do you have difficulty swallowing, or have a feeling of discomfort/blockage when swallowing? dysphagie
+Have you noticed a diffuse (widespread) redness in one or both eyes? erytheme_occ
+Do you suddenly have difficulty or an inability to open your mouth or have jaw pain when opening it? trismus
+Do you have difficulty articulating words/speaking? dysarthrie
+Have you ever felt like you were suffocating for a very short time associated with inability to breathe or speak? laryngospasme
+Have you noticed that you produce more saliva than usual? sialorhee
+Have you felt confused or disorientated lately? confusion
+Have you noticed that the tone of your voice has become deeper, softer or hoarse? volume_parole
+Do you have painful mouth ulcers or sores? ulcères_bouche
+Do you have the perception of seeing two images of a single object seen overlapping or adjacent to each other (double vision)? diplopie
+Do you have intense coughing fits? toux_sev
+Do you have pain or weakness in your jaw? claud_mâchoire
+Do you have a hard time opening/raising one or both eyelids? ptose
+Do you feel weakness in both arms and/or both legs? faiblesse_msmi
+Do your symptoms of muscle weakness increase with fatigue and/or stress? fatigabilité_msk
+Have you vomited several times or have you made several efforts to vomit? vo_violent
+Did you vomit after coughing? posttus_emesis
+Do you wheeze while inhaling or is your breathing noisy after coughing spells? insp_siffla
+Have you noticed any unusual bleeding or bruising related to your consultation today? rds_sg
+Where is the swelling located? oedeme_endroitducorps_@_nulle_part, oedeme_endroitducorps_@_aile_iliaque_D_, oedeme_endroitducorps_@_aile_iliaque_G_, oedeme_endroitducorps_@_aine_D_, oedeme_endroitducorps_@_aine_G_, oedeme_endroitducorps_@_aisselle_D_, oedeme_endroitducorps_@_aisselle_G_, oedeme_endroitducorps_@_amygdale_D_, oedeme_endroitducorps_@_amygdale_G_, oedeme_endroitducorps_@_anus, oedeme_endroitducorps_@_arrière_de_la_cheville_D_, oedeme_endroitducorps_@_arrière_de_la_cheville_G_, oedeme_endroitducorps_@_arrière_de_tête, oedeme_endroitducorps_@_arrière_du_cou, oedeme_endroitducorps_@_avant-bras_D_, oedeme_endroitducorps_@_avant-bras_G_, oedeme_endroitducorps_@_bas_du_thorax, oedeme_endroitducorps_@_biceps_D_, oedeme_endroitducorps_@_biceps_G_, oedeme_endroitducorps_@_bouche, oedeme_endroitducorps_@_cartilage_thyroidien, oedeme_endroitducorps_@_cheville_D_, oedeme_endroitducorps_@_cheville_G_, oedeme_endroitducorps_@_clitoris, oedeme_endroitducorps_@_coccyx, oedeme_endroitducorps_@_colonne_cervicale, oedeme_endroitducorps_@_colonne_dorsale, oedeme_endroitducorps_@_colonne_lombaire, oedeme_endroitducorps_@_commissure_D_, oedeme_endroitducorps_@_commissure_G_, oedeme_endroitducorps_@_coté_lateral_du_pied_D_, oedeme_endroitducorps_@_coté_lateral_du_pied_G_, oedeme_endroitducorps_@_coude_D_, oedeme_endroitducorps_@_coude_G_, oedeme_endroitducorps_@_creux_poplité_D_, oedeme_endroitducorps_@_creux_poplité_G_, oedeme_endroitducorps_@_crête_iliaque_D_, oedeme_endroitducorps_@_crête_iliaque_G_, oedeme_endroitducorps_@_cuisse_D_, oedeme_endroitducorps_@_cuisse_G_, oedeme_endroitducorps_@_côté_du_cou_D_, oedeme_endroitducorps_@_côté_du_cou_G_, oedeme_endroitducorps_@_côté_du_thorax_D_, oedeme_endroitducorps_@_côté_du_thorax_G_, oedeme_endroitducorps_@_dents_inférieures_D_, oedeme_endroitducorps_@_dents_inférieures_G_, oedeme_endroitducorps_@_dents_supérieures_D_, oedeme_endroitducorps_@_dents_supérieures_G_, oedeme_endroitducorps_@_dessus_de_la_langue, oedeme_endroitducorps_@_dessus_de_tête, oedeme_endroitducorps_@_doigt_annulaire__D_, oedeme_endroitducorps_@_doigt_annulaire__G_, oedeme_endroitducorps_@_doigt_auriculaire__D_, oedeme_endroitducorps_@_doigt_auriculaire__G_, oedeme_endroitducorps_@_doigt_index__D_, oedeme_endroitducorps_@_doigt_index__G_, oedeme_endroitducorps_@_doigt_majeur__D_, oedeme_endroitducorps_@_doigt_majeur__G_, oedeme_endroitducorps_@_face_dorsale_du_pied_D_, oedeme_endroitducorps_@_face_dorsale_du_pied_G_, oedeme_endroitducorps_@_face_dorsale_du_poignet_D_, oedeme_endroitducorps_@_face_dorsale_du_poignet_G_, oedeme_endroitducorps_@_face_dorsale_main_D_, oedeme_endroitducorps_@_face_dorsale_main_G_, oedeme_endroitducorps_@_face_palmaire_de_l_avant-bras_D_, oedeme_endroitducorps_@_face_palmaire_de_l_avant-bras_G_, oedeme_endroitducorps_@_face_palmaire_du_poignet_D_, oedeme_endroitducorps_@_face_palmaire_du_poignet_G_, oedeme_endroitducorps_@_fesse_D_, oedeme_endroitducorps_@_fesse_G_, oedeme_endroitducorps_@_flanc_D_, oedeme_endroitducorps_@_flanc_G_, oedeme_endroitducorps_@_fosse_iliaque_D_, oedeme_endroitducorps_@_fosse_iliaque_G_, oedeme_endroitducorps_@_front, oedeme_endroitducorps_@_gencive_inférieure, oedeme_endroitducorps_@_gencive_supérieure, oedeme_endroitducorps_@_genou_D_, oedeme_endroitducorps_@_genou_G_, oedeme_endroitducorps_@_gland, oedeme_endroitducorps_@_grande_lèvre_D_, oedeme_endroitducorps_@_grande_lèvre_G_, oedeme_endroitducorps_@_gros_orteil_D_, oedeme_endroitducorps_@_gros_orteil_G_, oedeme_endroitducorps_@_hanche_D_, oedeme_endroitducorps_@_hanche_G_, oedeme_endroitducorps_@_haut_du_thorax, oedeme_endroitducorps_@_hymen, oedeme_endroitducorps_@_hypochondre_D_, oedeme_endroitducorps_@_hypochondre_G_, oedeme_endroitducorps_@_ischio_D_, oedeme_endroitducorps_@_ischio_G_, oedeme_endroitducorps_@_joue_D_, oedeme_endroitducorps_@_joue_G_, oedeme_endroitducorps_@_joue_interne_D_, oedeme_endroitducorps_@_joue_interne_G_, oedeme_endroitducorps_@_loge_renale_D_, oedeme_endroitducorps_@_loge_renale_G_, oedeme_endroitducorps_@_luette, oedeme_endroitducorps_@_lèvre_inferieure_D_, oedeme_endroitducorps_@_lèvre_supérieure_D_, oedeme_endroitducorps_@_menton, oedeme_endroitducorps_@_mollet_D_, oedeme_endroitducorps_@_mollet_G_, oedeme_endroitducorps_@_mâchoire, oedeme_endroitducorps_@_nez, oedeme_endroitducorps_@_occiput, oedeme_endroitducorps_@_oeil_D_, oedeme_endroitducorps_@_oeil_G_, oedeme_endroitducorps_@_omoplate_D_, oedeme_endroitducorps_@_omoplate_G_, oedeme_endroitducorps_@_oreille_D_, oedeme_endroitducorps_@_oreille_G_, oedeme_endroitducorps_@_orteil__1__D_, oedeme_endroitducorps_@_orteil__1__G_, oedeme_endroitducorps_@_orteil__2__D_, oedeme_endroitducorps_@_orteil__2__G_, oedeme_endroitducorps_@_orteil__3__D_, oedeme_endroitducorps_@_orteil__3__G_, oedeme_endroitducorps_@_palais, oedeme_endroitducorps_@_paroi_vaginale, oedeme_endroitducorps_@_paroi_vaginale_D_, oedeme_endroitducorps_@_paroi_vaginale_G_, oedeme_endroitducorps_@_paume_D_, oedeme_endroitducorps_@_paume_G_, oedeme_endroitducorps_@_petit_orteil__4__D_, oedeme_endroitducorps_@_petit_orteil__4__G_, oedeme_endroitducorps_@_petite_lèvre_D_, oedeme_endroitducorps_@_petite_lèvre_G_, oedeme_endroitducorps_@_pharynx, oedeme_endroitducorps_@_plante_du_pied_D_, oedeme_endroitducorps_@_plante_du_pied_G_, oedeme_endroitducorps_@_pouce_D_, oedeme_endroitducorps_@_pouce_G_, oedeme_endroitducorps_@_pubis, oedeme_endroitducorps_@_pénis, oedeme_endroitducorps_@_scrotum, oedeme_endroitducorps_@_sein_D_, oedeme_endroitducorps_@_sein_G_, oedeme_endroitducorps_@_sous_la_langue, oedeme_endroitducorps_@_sous_la_machoire, oedeme_endroitducorps_@_talon_D_, oedeme_endroitducorps_@_talon_G_, oedeme_endroitducorps_@_tempe_D_, oedeme_endroitducorps_@_tempe_G_, oedeme_endroitducorps_@_testicule_D_, oedeme_endroitducorps_@_testicule_G_, oedeme_endroitducorps_@_thorax_postérieur_D_, oedeme_endroitducorps_@_thorax_postérieur_G_, oedeme_endroitducorps_@_tibia_D_, oedeme_endroitducorps_@_tibia_G_, oedeme_endroitducorps_@_trachée, oedeme_endroitducorps_@_trapèze_D_, oedeme_endroitducorps_@_trapèze_G_, oedeme_endroitducorps_@_triceps_D_, oedeme_endroitducorps_@_triceps_G_, oedeme_endroitducorps_@_urètre, oedeme_endroitducorps_@_vagin, oedeme_endroitducorps_@_ventre, oedeme_endroitducorps_@_vermillon_D_, oedeme_endroitducorps_@_vermillon_G_, oedeme_endroitducorps_@_vestibule, oedeme_endroitducorps_@_épaule_D_, oedeme_endroitducorps_@_épaule_G_, oedeme_endroitducorps_@_épigastre, 
+Do you have swelling in one or more areas of your body? oedeme
+Have you been coughing up blood? crach_sg
+Have you noticed a high pitched sound when breathing in? stridor
+Have you noticed weakness in your facial muscles and/or eyes? faiblesse faciale
+Have you recently had numbness, loss of sensation or tingling, in both arms and legs and around your mouth? paresthesies_bilat
+Did you previously, or do you currently, have any weakness/paralysis in one or more of your limbs or in your face? rds_paralys_gen
+Have you been in contact with or ate something that you have an allergy to? contact_allergie
+Have you noticed a wheezing sound when you exhale? wheez
+Have you been able to pass stools or gas since your symptoms increased? obstipation
+Do you have a decrease in appetite? boire_ped
+Are the symptoms or pain increased with coughing, with an effort like lifting a weight or from forcing a bowel movement? ww_valsalva
+Does the person have a whooping cough? toux_Aboy
+Are your symptoms more prominent at night? ww_nuit
+Have you had surgery within the last month? surg1
+Do you have severe itching in one or both eyes? prurit_occ
+Do you have a cough that produces colored or more abundant sputum than usual? expecto
+Do you find that your symptoms have worsened over the last 2 weeks and that progressively less effort is required to cause the symptoms? angor_accelere
+Do you have chest pain even at rest? angor_repos
+Is your nose or the back of your throat itchy? prurit_nasal
+Do you currently, or did you ever, have numbness, loss of sensitivity or tingling anywhere on your body? rds_paresthesie_gen
+Have you noticed any new fatigue, generalized and vague discomfort, diffuse (widespread) muscle aches or a change in your general well-being related to your consultation today? rds_deg
+Have you been unintentionally losing weight or have you lost your appetite? rds_anorexie
+Do you have very abundant or very long menstruation periods? ménorr
+Did your cheeks suddenly turn red? flushing
+Do you feel that muscle spasms or soreness in your neck are keeping you from turning your head to one side? spasme_trapeze
+Do you have pale stools and dark urine? selles_pale
+Do you feel your heart is beating very irregularly or in a disorganized pattern? pls_irreg
+Do you have annoying muscle spasms in your face, neck or any other part of your body? spasmes_msk
+Do you have trouble keeping your tongue in your mouth? protu_langue
+Are you unable to control the direction of your eyes? regard_dévié
+Do you have bouts of choking or shortness of breath that wake you up at night? dyspn_noct
+Do you drink alcohol excessively or do you have an addiction to alcohol? f10.129
+Are you taking any new oral anticoagulants ((NOACs)? naco
+Do you feel like you are detached from your own body or your surroundings? psy_depers
+Do you feel like you are dying or were you afraid that you were about do die? impression_mort
+Do you have greenish or yellowish nasal discharge? rhino_pur
+Have you lost your sense of smell? hyponos
+Do you ever temporarily stop breathing while you’re asleep? apnee
+Have you ever had a heart attack or do you have angina (chest pain)? i25.1
+Do you have a problem with poor circulation? i73.9
+Do you have high blood pressure or do you take medications to treat high blood pressure? i10
+Do you smoke cigarettes? f17.210
+Do you have high cholesterol or do you take medications to treat high cholesterol? e78.5
+Have you been in contact with a person with similar symptoms in the past 2 weeks? contact
+Do you currently take hormones? horm1
+Do you have diabetes? e10_e11
+Do you think you are pregnant or are you currently pregnant? preg1
+Have you had unprotected sex with more than one partner in the last 6 months? itss_risque
+Are you significantly overweight compared to people of the same height as you? e66
+Are you currently taking or have you recently taken anti-inflammatory drugs (NSAIDs)? ains
+Have any of your family members ever had a pneumothorax? pneumothorax
+Do you currently undergo dialysis? Z99.2
+Have any of your family members been diagnosed with cluster headaches? atcd_cluster
+Do you take medication that dilates your blood vessels? rx_vasodil
+Have you ever had a head trauma? s09.90
+Have you ever had a migraine or is a member of your family known to have migraines? histfammigraine
+Have you ever had a stroke? i60-i69
+Are you more likely to develop common allergies than the general population? z84.89
+Do you regularly take stimulant drugs? drogues_stimul
+Do you attend or work in a daycare? dayc
+Do you have Parkinson’s disease? g20
+Have you traveled out of the country in the last 4 weeks? trav1_@_N, trav1_@_AfriqN, trav1_@_AfriqO, trav1_@_AfriqSS, trav1_@_AmerC, trav1_@_AmerN, trav1_@_AmerS, trav1_@_Asie, trav1_@_AsieSSE, trav1_@_Cara, trav1_@_Euro, trav1_@_Ocea, 
+Do you have metastatic cancer? cancer_méta
+Are you being treated for osteoporosis? osteoporose
+Do you have asthma or have you ever had to use a bronchodilator in the past? j45
+Do you have a hiatal hernia? hernie_hiatale
+Have you had a cold in the last 2 weeks? j06.9
+Do you live with 4 or more people? crowd
+Are you infected with the human immunodeficiency virus (HIV)? HIV
+Are you immunosuppressed? z92.25
+Are you currently using intravenous drugs? drogues_IV
+Do you suffer from Crohn’s disease or ulcerative colitis (UC)? crohn_cu
+Have you ever had a sexually transmitted infection? atcd_its
+Do you exercise regularly, 4 times per week or more? move
+Are you a former smoker? smokingpast
+Is your BMI less than 18.5, or are you underweight? v85.0
+Do you have liver cirrhosis? k74
+Have you had sexual intercourse with an HIV-positive partner in the past 12 months? sex_vih
+Do you have a poor diet? Mauv_aliment
+Have you ever had a diagnosis of anemia? atcd_anem
+Do you have any family members who have been diagnosed with anemia? atcd_fam_anem
+Do you have chronic kidney failure? irc
+Were you born prematurely or did you suffer any complication at birth? perinatality
+Are there any members of your family who have been diagnosed myasthenia gravis? atcdfam_mg
+Do you have Rheumatoid Arthritis? ap_par
+Have you ever been diagnosed with depression? f32
+Have you been in contact with someone who has had pertussis (whoooping cough)? cont_coq
+Have you recently had a viral infection? B34.9
+Are you currently being treated or have you recently been treated with an oral antibiotic for an ear infection? H6690
+Do you have an active cancer? c00-d48
+Are your vaccinations up to date? vaccination
+Do you have a known heart defect? malf_cardiaque
+Have you been diagnosed with hyperthyroidism? ap_hypert4
+Do you have severe Chronic Obstructive Pulmonary Disease (COPD)? bode
+Do you have a known issue with one of your heart valves? ap_valve
+Do you consume energy drinks regularly? drink_energie
+Do you regularly drink coffee or tea? cafe
+Have you recently taken decongestants or other substances that may have stimulant effects? wakeup
+Do you have a known severe food allergy? allergie_sev
+Do you take corticosteroids? cortico
+Have you or any member of your family ever had croup? J05.0
+Do you suffer from chronic anxiety? f41.9
+Have you ever had deep vein thrombosis (DVT)? i80
+Have you been unable to move or get up for more than 3 consecutive days within the last 4 weeks? immob1
+Are you of Asian descent? ap_asian
+Do you have cystic fibrosis? ap_fk
+Have you ever had pneumonia? j17_j18
+Do you have a chronic obstructive pulmonary disease (COPD)? j44_j42
+Do you live in in a big city? urban1
+Do you have any close family members who suffer from allergies (any type), hay fever or eczema? fam_atopie
+Do you have any family members who have asthma? fam_j45
+Did you have your first menstrual period before the age of 12? menarche_hat
+Have you breastfed one of your children for more than 9 months? allait_prol
+Have you ever been diagnosed with obstructive sleep apnea (OSA)? sahs
+Do you have heart failure? i50
+Were you diagnosed with endocrine disease or a hormone dysfunction? patho_endo
+Did you eat dark-fleshed fish (such as tuna) or Swiss cheese before the reaction occurred? scombroide
+Do you have chronic pancreatitis? K86.1
+Have you ever been diagnosed with gastroesophageal reflux? k21
+Have you ever had a spontaneous pneumothorax? ap_pneumothorax
+Are you exposed to secondhand cigarette smoke on a daily basis? z77.22
+Have you started or taken any antipsychotic medication within the last 7 days? antipsy_récent
+Have you been treated in hospital recently for nausea, agitation, intoxication or aggressive behavior and received medication via an intravenous or intramuscular route? nau_psy_recent
+Have you ever had surgery to remove lymph nodes? lymphoedème
+Do you take a calcium channel blockers (medication)? norvasc
+Do you have a known kidney problem resulting in an inability to retain proteins? synd_nephro
+Have you ever had a pericarditis? I30
+Do any members of your immediate family have a psychiatric illness? atcdpsyfam
+Do you have close family members who had a cardiovascular disease problem before the age of 50? z82.49
+In the last month, have you been in contact with anyone infected with the Ebola virus? ebolacase
+Do you suffer from fibromyalgia? m79.7
+Have you been hospitalized for an asthma attack in the past year? hosptisasm
+Have you had 2 or more asthma attacks in the past year? criseasthm
+Have you been diagnosed with chronic sinusitis? j32
+Have you had one or several flare ups of chronic obstructive pulmonary disease (COPD) in the past year? eampoc1
+Do you work in agriculture? tagri
+Do you work in the mining sector? tmine
+Do you work in construction? tconst
+Do you have a deviated nasal septum? j34.2
+Do you have polyps in your nose? j33
+Does your mother suffer from asthma? momasthma
+Do you live in the suburbs? suburb
+Do you live in a rural area? rural
+Do you have family members who have had lung cancer? z80.1
+Are there members of your family who have been diagnosed with pancreatic cancer? z80.0
+Have you ever had fluid in your lungs? J81

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Health Recommendation System
+    </title>
+    <link
+      rel="stylesheet"
+      href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <br/>
+      <h2 align="center">
+        Predict the disease based on symptoms
+      </h2>
+      <br/>
+      <div style="padding-inline: 27%">
+        <form method="post" id="multiple_select_form">
+          <select
+            name="symptoms"
+            id="symptoms"
+            class="form-control selectpicker"
+            data-live-search="true"
+            multiple
+          >
+            {% for symptom, readable_symptom in symptoms %}
+            <option value="{{ symptom }}">{{ readable_symptom }}</option>
+            {% endfor %}
+          </select>
+          <br /><br />
+          <input type="hidden" name="hidden_symptoms" id="hidden_symptoms" />
+          <center>
+            <input type="submit" name="submit" class="btn btn-info"value="Submit"/>
+          </center>
+          <br/>
+          <div id="result">
+            
+          </div>
+        </form>
+        <br />
+      </div>
+      
+    </div>
+    <script>
+      $(document).ready(function () {
+        $(".selectpicker").selectpicker();
+
+        $("#symptoms").change(function () {
+          $("#hidden_symptoms").val($("#symptoms").val());
+        });
+
+        $("#multiple_select_form").on("submit", function (event) {
+          event.preventDefault();
+          if ($("#symptoms").val() != "") {
+            var form_data = $(this).serialize();
+            $.ajax({
+              url: "/predict",
+              method: "POST",
+              data: form_data,
+              success: function (data) {
+                $("#hidden_symptoms").val("");
+                $(".selectpicker").selectpicker("val", "");
+                
+                // let's add the result to the page
+                $("#result").html(data);
+              },
+            });
+          } else {
+            alert("Please select framework");
+            return false;
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
