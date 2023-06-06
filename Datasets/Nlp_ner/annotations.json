@@ -1,0 +1,2385 @@
+{
+  "annotations": [
+    [
+      "J'ai été infecté par un virus récemment.",
+      { "entities": [[24, 39, "B34.9"]] }
+    ],
+    [
+      "Je suis actuellement traité ou j'ai été récemment traité avec un antibiotique pris par la bouche pour une infection de l'oreille ou une otite.",
+      {
+        "entities": [
+          [65, 128, "H6690"],
+          [136, 141, "H6690"]
+        ]
+      }
+    ],
+    [
+      "Je suis infecté par le virus de l'immunodéficience humaine ou je suis séropositif.",
+      {
+        "entities": [
+          [32, 58, "HIV"],
+          [70, 81, "HIV"]
+        ]
+      }
+    ],
+    ["J'ai déjà eu une péricardite.", { "entities": [[17, 28, "I30"]] }],
+    [
+      "Moi ou un membre de ma famille avons déjà eu le croup.",
+      { "entities": [[45, 53, "J05.0"]] }
+    ],
+    [
+      "J'ai déjà fait de l'eau sur les poumons.",
+      { "entities": [[18, 39, "J81"]] }
+    ],
+    [
+      "Je souffre de pancréatite chronique.",
+      { "entities": [[14, 35, "K86.1"]] }
+    ],
+    [
+      "J'ai une mauvaise alimentation.",
+      { "entities": [[9, 30, "MAUV_ALIMENT"]] }
+    ],
+    ["Je suis dialysé.", { "entities": [[8, 15, "Z99.2"]] }],
+    [
+      "J'ai des ganglions enflés ou douloureux.",
+      { "entities": [[9, 39, "ADP_DLR"]] }
+    ],
+    [
+      "J'ai pris ou j'ai déjà pris des anti-inflammatoires récemment.",
+      { "entities": [[32, 61, "AINS"]] }
+    ],
+    [
+      "J'ai allaité plus de 9 mois un de mes enfants.",
+      { "entities": [[5, 27, "ALLAIT_PROL"]] }
+    ],
+    [
+      "J'ai une allergie alimentaire connue et sévère.",
+      { "entities": [[9, 29, "ALLERGIE_SEV"]] }
+    ],
+    [
+      "Je trouve que mes symptômes sont pires depuis environ 2 semaines et que de moins en moins d'effort provoque les symptômes.",
+      {
+        "entities": [
+          [18, 38, "ANGOR_ACCELERE"],
+          [84, 121, "ANGOR_ACCELERE"]
+        ]
+      }
+    ],
+    [
+      "J'ai des douleurs au thorax même au repos.",
+      { "entities": [[9, 41, "ANGOR_REPOS"]] }
+    ],
+    [
+      "J'ai pris ou commencé un antipsychotique dans les derniers 7 jours.",
+      { "entities": [[25, 40, "ANTIPSY_RÉCENT"]] }
+    ],
+    [
+      "Je ressens une certaine anxiété, une fébrilité.",
+      {
+        "entities": [
+          [24, 31, "ANXIETE_S"],
+          [37, 46, "ANXIETE_S"]
+        ]
+      }
+    ],
+    ["J'ai des origines asiatiques.", { "entities": [[18, 28, "AP_ASIAN"]] }],
+    [
+      "Je suis atteint par la fibrose kystique.",
+      { "entities": [[23, 39, "AP_FK"]] }
+    ],
+    [
+      "Je suis connu pour de l'hyperthyroïdie.",
+      { "entities": [[22, 38, "AP_HYPERT4"]] }
+    ],
+    ["Je souffre d'arthrite rhumatoïde.", { "entities": [[11, 32, "AP_PAR"]] }],
+    [
+      "J'ai déjà fait un pneumothorax spontané.",
+      { "entities": [[18, 39, "AP_PNEUMOTHORAX"]] }
+    ],
+    [
+      "Je suis connu pour un problème au niveau d'une valve cardiaque.",
+      { "entities": [[47, 62, "AP_VALVE"]] }
+    ],
+    [
+      "Je fais des pauses respiratoires durant mon sommeil.",
+      { "entities": [[12, 32, "APNEE"]] }
+    ],
+    [
+      "J'ai déjà eu un diagnostic d'anémie.",
+      { "entities": [[27, 35, "ATCD_ANEM"]] }
+    ],
+    [
+      "J'ai des membres de ma famille qui ont déjà été diagnostiqués avec des céphalées en grappes.",
+      { "entities": [[71, 91, "ATCD_CLUSTER"]] }
+    ],
+    [
+      "J'ai des membres de ma famille qui ont déjà eu un diagnostic d'anémie.",
+      { "entities": [[9, 69, "ATCD_FAM_ANEM"]] }
+    ],
+    [
+      "J'ai déjà eu une infection transmise sexuellement.",
+      { "entities": [[17, 49, "ATCD_ITS"]] }
+    ],
+    [
+      "J'ai des membres de ma famille qui ont la myasthénie grave.",
+      { "entities": [[9, 58, "ATCDFAM_MG"]] }
+    ],
+    [
+      "J'ai des membres de ma famille proche qui ont eu une maladie psychiatrique.",
+      { "entities": [[9, 74, "ATCDPSYFAM"]] }
+    ],
+    [
+      "Je ressens un ballonnement abdominal ou un gonflement de mon ventre.",
+      {
+        "entities": [
+          [14, 36, "BALLON_ABDO"],
+          [40, 67, "BALLON_ABDO"]
+        ]
+      }
+    ],
+    [
+      "Je suis considéré comme une personne ayant une maladie pulmonaire obstructive chronique sévère.",
+      { "entities": [[47, 94, "BODE"]] }
+    ],
+    [
+      "J'ai une diminution de l'appétit ou des boissons.",
+      { "entities": [[9, 48, "BOIRE_PED"]] }
+    ],
+    [
+      "J'ai une douleur qui s'améliore lorsque je penche mon corps vers l'avant.",
+      { "entities": [[9, 72, "BW_BENDING"]] }
+    ],
+    ["J'ai un cancer actif.", { "entities": [[8, 20, "C00-D48"]] }],
+    [
+      "Je bois régulièrement du café ou du thé.",
+      {
+        "entities": [
+          [25, 29, "CAFE"],
+          [36, 39, "CAFE"]
+        ]
+      }
+    ],
+    ["J'ai un cancer métastatique.", { "entities": [[8, 27, "CANCER_MÉTA"]] }],
+    [
+      "J'ai des douleurs ou une faiblesse au niveau de la mâchoire.",
+      { "entities": [[51, 59, "CLAUD_MÂCHOIRE"]] }
+    ],
+    [
+      "Je me sens confus ou mélangé.",
+      {
+        "entities": [
+          [11, 17, "CONFUSION"],
+          [21, 28, "CONFUSION"]
+        ]
+      }
+    ],
+    [
+      "J'ai été en contact avec quelqu'un qui a eu la coqueluche.",
+      { "entities": [[47, 57, "CONT_COQ"]] }
+    ],
+    [
+      "J'ai été en contact avec une autre personne qui présentait des symptômes similaires, dans les 2 dernières semaines.",
+      { "entities": [[12, 19, "CONTACT"]] }
+    ],
+    [
+      "J'ai été en contact ou j'ai mangé une chose à laquelle j'ai une allergie.",
+      { "entities": [[64, 72, "CONTACT_ALLERGIE"]] }
+    ],
+    [
+      "J'ai eu une épisode de perte de conscience avec des contractions violentes et soutenues d'un ou de plusieurs muscles de mon corps ou une période d'absence.",
+      {
+        "entities": [
+          [23, 129, "CONVULSION"],
+          [137, 154, "CONVULSION"]
+        ]
+      }
+    ],
+    ["Je prends des corticostéroïdes.", { "entities": [[14, 30, "CORTICO"]] }],
+    [
+      "J'ai visualisé du sang dans mes crachats.",
+      { "entities": [[18, 40, "CRACH_SG"]] }
+    ],
+    [
+      "J'ai fait 2 crises d'asthme ou plus dans la dernière année.",
+      { "entities": [[12, 27, "CRISEASTHM"]] }
+    ],
+    [
+      "Je souffre de la maladie de Crohn ou de la colite ulcéreuse.",
+      {
+        "entities": [
+          [17, 33, "CROHN_CU"],
+          [43, 59, "CROHN_CU"]
+        ]
+      }
+    ],
+    ["J'habite avec 4 personnes ou plus.", { "entities": [[0, 33, "CROWD"]] }],
+    [
+      "Je fréquente ou travaille dans une garderie.",
+      { "entities": [[35, 43, "DAYC"]] }
+    ],
+    ["J'ai eu des sueurs importantes.", { "entities": [[12, 30, "DIAPH"]] }],
+    [
+      "J'ai eu des diarrhées ou une augmentation de la fréquence de mes selles.",
+      {
+        "entities": [
+          [12, 21, "DIARRHEE"],
+          [29, 71, "DIARRHEE"]
+        ]
+      }
+    ],
+    [
+      "J'ai l'impression de voir double ou de voir simultanément 2 images semblables.",
+      {
+        "entities": [
+          [21, 32, "DIPLOPIE"],
+          [39, 77, "DIPLOPIE"]
+        ]
+      }
+    ],
+    [
+      "J'ai de la douleur à quelque part en lien avec ma raison de consultation.",
+      { "entities": [[11, 18, "DOULEURXX"]] }
+    ],
+    [
+      "Je souffre d’une douleur.",
+      { "entities": [[3, 24, "DOULEURXX_CARAC_@_NA"]] }
+    ],
+    [
+      "Je souffre d’une déchirante douleur.",
+      { "entities": [[17, 35, "DOULEURXX_CARAC_@_DÉCHIRANTE"]] }
+    ],
+    [
+      "Je souffre d’une lancinante douleur.",
+      {
+        "entities": [[17, 35, "DOULEURXX_CARAC_@_LANCINANTE_/_CHOC_ÉLECTRIQUE"]]
+      }
+    ],
+    [
+      "Je souffre d’une pénible douleur.",
+      { "entities": [[17, 32, "DOULEURXX_CARAC_@_PÉNIBLE"]] }
+    ],
+    [
+      "Je souffre d’une sensible douleur.",
+      { "entities": [[17, 33, "DOULEURXX_CARAC_@_SENSIBLE"]] }
+    ],
+    [
+      "Je souffre d’un coup de couteau.",
+      { "entities": [[16, 31, "DOULEURXX_CARAC_@_UN_COUP_DE_COUTEAU"]] }
+    ],
+    [
+      "Je souffre d’un tiraillement.",
+      { "entities": [[16, 28, "DOULEURXX_CARAC_@_UN_TIRAILLEMENT"]] }
+    ],
+    [
+      "Je souffre d’une brûlure.",
+      { "entities": [[17, 24, "DOULEURXX_CARAC_@_UNE_BRÛLURE_OU_CHALEUR"]] }
+    ],
+    [
+      "Je souffre d’une crampe.",
+      { "entities": [[17, 23, "DOULEURXX_CARAC_@_UNE_CRAMPE"]] }
+    ],
+    [
+      "Je souffre d’une  lourdeur.",
+      { "entities": [[18, 26, "DOULEURXX_CARAC_@_UNE_LOURDEUR_OU_SERREMENT"]] }
+    ],
+    [
+      "Je souffre d’une  pulsation.",
+      { "entities": [[18, 27, "DOULEURXX_CARAC_@_UNE_PULSATION"]] }
+    ],
+    [
+      "Je souffre d’une violente douleur.",
+      { "entities": [[17, 33, "DOULEURXX_CARAC_@_VIOLENTE"]] }
+    ],
+    [
+      "Je souffre d’une vive douleur.",
+      { "entities": [[17, 29, "DOULEURXX_CARAC_@_VIVE"]] }
+    ],
+    [
+      "Je souffre d’une écoeurante douleur.",
+      { "entities": [[17, 35, "DOULEURXX_CARAC_@_ÉCOEURANTE"]] }
+    ],
+    [
+      "Je souffre d’une épeurante douleur.",
+      { "entities": [[17, 34, "DOULEURXX_CARAC_@_ÉPEURANTE"]] }
+    ],
+    [
+      "Je souffre d’une épuisante douleur.",
+      { "entities": [[17, 34, "DOULEURXX_CARAC_@_ÉPUISANTE"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'aisselle droite.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_AISSELLE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'amygdale droite.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_AMYGDALE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'amygdale gauche.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_AMYGDALE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'arrière de la cheville droite.",
+      {
+        "entities": [
+          [17, 58, "DOULEURXX_ENDROITDUCORPS_@_ARRIÈRE_DE_LA_CHEVILLE_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à l'arrière de la cheville gauche.",
+      {
+        "entities": [
+          [17, 58, "DOULEURXX_ENDROITDUCORPS_@_ARRIÈRE_DE_LA_CHEVILLE_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à l'arrière de la tête.",
+      { "entities": [[17, 47, "DOULEURXX_ENDROITDUCORPS_@_ARRIÈRE_DE_TÊTE"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'arrière du cou.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_ARRIÈRE_DU_COU"]] }
+    ],
+    [
+      "Je souffre d'une douleur au bas du thorax.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_BAS_DU_THORAX"]] }
+    ],
+    [
+      "Je souffre d'une douleur au biceps droit.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_BICEPS_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au biceps gauche.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_BICEPS_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la bouche.",
+      { "entities": [[17, 36, "DOULEURXX_ENDROITDUCORPS_@_BOUCHE"]] }
+    ],
+    [
+      "Je souffre d'une douleur au cartilage thyroïdien.",
+      {
+        "entities": [
+          [17, 48, "DOULEURXX_ENDROITDUCORPS_@_CARTILAGE_THYROIDIEN"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à la cheville droite.",
+      { "entities": [[17, 45, "DOULEURXX_ENDROITDUCORPS_@_CHEVILLE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la cheville gauche.",
+      { "entities": [[17, 45, "DOULEURXX_ENDROITDUCORPS_@_CHEVILLE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la colonne cervicale.",
+      { "entities": [[17, 47, "DOULEURXX_ENDROITDUCORPS_@_COLONNE_CERVICALE"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la colonne dorsale.",
+      { "entities": [[17, 45, "DOULEURXX_ENDROITDUCORPS_@_COLONNE_DORSALE"]] }
+    ],
+    [
+      "Je souffre d'une douleur au côté latéral du pied droit.",
+      {
+        "entities": [
+          [17, 54, "DOULEURXX_ENDROITDUCORPS_@_COTÉ_LATERAL_DU_PIED_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au côté latéral du pied gauche.",
+      {
+        "entities": [
+          [17, 55, "DOULEURXX_ENDROITDUCORPS_@_COTÉ_LATERAL_DU_PIED_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au coude droit.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_COUDE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au coude gauche.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_COUDE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au creux poplité droit.",
+      { "entities": [[17, 47, "DOULEURXX_ENDROITDUCORPS_@_CREUX_POPLITÉ_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au creux poplité gauche.",
+      { "entities": [[17, 48, "DOULEURXX_ENDROITDUCORPS_@_CREUX_POPLITÉ_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la cuisse droite.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_CUISSE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la cuisse gauche.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_CUISSE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au côté du cou droit.",
+      { "entities": [[17, 45, "DOULEURXX_ENDROITDUCORPS_@_CÔTÉ_DU_COU_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au côté du cou gauche.",
+      { "entities": [[17, 46, "DOULEURXX_ENDROITDUCORPS_@_CÔTÉ_DU_COU_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au côté du thorax droit.",
+      { "entities": [[17, 48, "DOULEURXX_ENDROITDUCORPS_@_CÔTÉ_DU_THORAX_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au côté du thorax gauche.",
+      { "entities": [[17, 49, "DOULEURXX_ENDROITDUCORPS_@_CÔTÉ_DU_THORAX_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au-dessus de la tête.",
+      { "entities": [[17, 45, "DOULEURXX_ENDROITDUCORPS_@_DESSUS_DE_TÊTE"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'annulaire droit.",
+      {
+        "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_ANNULAIRE__D_"]]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à l'annulaire gauche.",
+      {
+        "entities": [[17, 45, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_ANNULAIRE__G_"]]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à l'auriculaire droit.",
+      {
+        "entities": [
+          [17, 46, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_AURICULAIRE__D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à l'auriculaire gauche.",
+      {
+        "entities": [
+          [17, 47, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_AURICULAIRE__G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à l'index droit.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_INDEX__D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'index gauche.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_INDEX__G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au majeur droit.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_MAJEUR__D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au majeur gauche.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_DOIGT_MAJEUR__G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la face dorsale du pied droit.",
+      {
+        "entities": [
+          [17, 56, "DOULEURXX_ENDROITDUCORPS_@_FACE_DORSALE_DU_PIED_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à la face dorsale du pied gauche.",
+      {
+        "entities": [
+          [17, 57, "DOULEURXX_ENDROITDUCORPS_@_FACE_DORSALE_DU_PIED_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à la face dorsale du poignet droit.",
+      {
+        "entities": [
+          [17, 59, "DOULEURXX_ENDROITDUCORPS_@_FACE_DORSALE_DU_POIGNET_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à la face dorsale du poignet gauche.",
+      {
+        "entities": [
+          [17, 60, "DOULEURXX_ENDROITDUCORPS_@_FACE_DORSALE_DU_POIGNET_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à la face palmaire du poignet droit.",
+      {
+        "entities": [
+          [17, 60, "DOULEURXX_ENDROITDUCORPS_@_FACE_PALMAIRE_DU_POIGNET_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur à la face palmaire du poignet gauche.",
+      {
+        "entities": [
+          [17, 61, "DOULEURXX_ENDROITDUCORPS_@_FACE_PALMAIRE_DU_POIGNET_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au flanc droit.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_FLANC_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au flanc gauche.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_FLANC_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la fosse iliaque droite.",
+      { "entities": [[17, 50, "DOULEURXX_ENDROITDUCORPS_@_FOSSE_ILIAQUE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la fosse iliaque gauche.",
+      { "entities": [[17, 50, "DOULEURXX_ENDROITDUCORPS_@_FOSSE_ILIAQUE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au front.",
+      { "entities": [[17, 33, "DOULEURXX_ENDROITDUCORPS_@_FRONT"]] }
+    ],
+    [
+      "Je souffre d'une douleur au genou droit.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_GENOU_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au genou gauche.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_GENOU_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la hanche droite.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_HANCHE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la hanche gauche.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_HANCHE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au haut du thorax.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_HAUT_DU_THORAX"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'hypochondre droit.",
+      { "entities": [[17, 46, "DOULEURXX_ENDROITDUCORPS_@_HYPOCHONDRE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'hypochondre gauche.",
+      { "entities": [[17, 47, "DOULEURXX_ENDROITDUCORPS_@_HYPOCHONDRE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'ischio droit.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_ISCHIO_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'ischio gauche.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_ISCHIO_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la joue droite.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_JOUE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la joue gauche.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_JOUE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au mollet droit.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_MOLLET_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au mollet gauche.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_MOLLET_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au nez.",
+      { "entities": [[17, 31, "DOULEURXX_ENDROITDUCORPS_@_NEZ"]] }
+    ],
+    [
+      "Je souffre d'une douleur nulle part.",
+      { "entities": [[17, 35, "DOULEURXX_ENDROITDUCORPS_@_NULLE_PART"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'occiput.",
+      { "entities": [[17, 36, "DOULEURXX_ENDROITDUCORPS_@_OCCIPUT"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'œil droit.",
+      { "entities": [[17, 38, "DOULEURXX_ENDROITDUCORPS_@_OEIL_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'œil gauche.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_OEIL_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'omoplate droite.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_OMOPLATE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'omoplate gauche.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_OMOPLATE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'oreille droite.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_OREILLE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'oreille gauche.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_OREILLE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'orteil 1 droit.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_ORTEIL__1__D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'orteil 1 gauche.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_ORTEIL__1__G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'orteil 2 droit.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_ORTEIL__2__D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'orteil 2 gauche.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_ORTEIL__2__G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'orteil 3 droit.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_ORTEIL__3__D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'orteil 3 gauche.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_ORTEIL__3__G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au palais.",
+      { "entities": [[17, 34, "DOULEURXX_ENDROITDUCORPS_@_PALAIS"]] }
+    ],
+    [
+      "Je souffre d'une douleur au petit orteil 4 droit.",
+      {
+        "entities": [[17, 48, "DOULEURXX_ENDROITDUCORPS_@_PETIT_ORTEIL__4__D_"]]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au petit orteil 4 gauche.",
+      {
+        "entities": [[17, 49, "DOULEURXX_ENDROITDUCORPS_@_PETIT_ORTEIL__4__G_"]]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au pharynx.",
+      { "entities": [[17, 35, "DOULEURXX_ENDROITDUCORPS_@_PHARYNX"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la plante du pied droit.",
+      { "entities": [[17, 50, "DOULEURXX_ENDROITDUCORPS_@_PLANTE_DU_PIED_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la plante du pied gauche.",
+      { "entities": [[17, 51, "DOULEURXX_ENDROITDUCORPS_@_PLANTE_DU_PIED_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au pouce droit.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_POUCE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au pouce gauche.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_POUCE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au pubis.",
+      { "entities": [[17, 33, "DOULEURXX_ENDROITDUCORPS_@_PUBIS"]] }
+    ],
+    [
+      "Je souffre d'une douleur au sein droit.",
+      { "entities": [[17, 38, "DOULEURXX_ENDROITDUCORPS_@_SEIN_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au sein gauche.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_SEIN_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur sous la mâchoire.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_SOUS_LA_MACHOIRE"]] }
+    ],
+    [
+      "Je souffre d'une douleur au talon droit.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_TALON_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la tempe droite.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_TEMPE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la tempe gauche.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_TEMPE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au testicule droit.",
+      { "entities": [[17, 43, "DOULEURXX_ENDROITDUCORPS_@_TESTICULE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au testicule gauche.",
+      { "entities": [[17, 44, "DOULEURXX_ENDROITDUCORPS_@_TESTICULE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au thorax postérieur droit.",
+      {
+        "entities": [
+          [17, 51, "DOULEURXX_ENDROITDUCORPS_@_THORAX_POSTÉRIEUR_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au thorax postérieur gauche.",
+      {
+        "entities": [
+          [17, 52, "DOULEURXX_ENDROITDUCORPS_@_THORAX_POSTÉRIEUR_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une douleur au tibia droit.",
+      { "entities": [[17, 39, "DOULEURXX_ENDROITDUCORPS_@_TIBIA_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au tibia gauche.",
+      { "entities": [[17, 40, "DOULEURXX_ENDROITDUCORPS_@_TIBIA_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à la trachée.",
+      { "entities": [[17, 37, "DOULEURXX_ENDROITDUCORPS_@_TRACHÉE"]] }
+    ],
+    [
+      "Je souffre d'une douleur au triceps droit.",
+      { "entities": [[17, 41, "DOULEURXX_ENDROITDUCORPS_@_TRICEPS_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au triceps gauche.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_TRICEPS_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur au ventre.",
+      { "entities": [[17, 34, "DOULEURXX_ENDROITDUCORPS_@_VENTRE"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'épaule droite.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_ÉPAULE_D_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'épaule gauche.",
+      { "entities": [[17, 42, "DOULEURXX_ENDROITDUCORPS_@_ÉPAULE_G_"]] }
+    ],
+    [
+      "Je souffre d'une douleur à l'épigastre.",
+      { "entities": [[17, 38, "DOULEURXX_ENDROITDUCORPS_@_ÉPIGASTRE"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 0.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_0"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 1.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_1"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 2.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_2"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 3.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_3"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 4.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_4"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 5.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_5"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 6.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_6"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 7.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_7"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 8.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_8"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 9.",
+      { "entities": [[17, 38, "DOULEURXX_INTENS_@_9"]] }
+    ],
+    [
+      "Je souffre d’une douleur d’intensité 10.",
+      { "entities": [[17, 39, "DOULEURXX_INTENS_@_10"]] }
+    ],
+    [
+      "La douleur se propage vers l'arrière de la tête.",
+      { "entities": [[11, 47, "DOULEURXX_IRRAD_@_ARRIÈRE_DE_TÊTE"]] }
+    ],
+    [
+      "La douleur se propage vers le bas du thorax.",
+      { "entities": [[11, 43, "DOULEURXX_IRRAD_@_BAS_DU_THORAX"]] }
+    ],
+    [
+      "La douleur se propage vers le biceps droit.",
+      { "entities": [[11, 42, "DOULEURXX_IRRAD_@_BICEPS_D_"]] }
+    ],
+    [
+      "La douleur se propage vers le biceps gauche.",
+      { "entities": [[11, 43, "DOULEURXX_IRRAD_@_BICEPS_G_"]] }
+    ],
+    [
+      "La douleur se propage vers le cartilage thyroïdien.",
+      { "entities": [[11, 50, "DOULEURXX_IRRAD_@_CARTILAGE_THYROIDIEN"]] }
+    ],
+    [
+      "La douleur se propage vers la colonne dorsale.",
+      { "entities": [[11, 45, "DOULEURXX_IRRAD_@_COLONNE_DORSALE"]] }
+    ],
+    [
+      "La douleur se propage vers le côté du thorax droit.",
+      { "entities": [[11, 50, "DOULEURXX_IRRAD_@_CÔTÉ_DU_THORAX_D_"]] }
+    ],
+    [
+      "La douleur se propage vers le côté du thorax gauche.",
+      { "entities": [[11, 51, "DOULEURXX_IRRAD_@_CÔTÉ_DU_THORAX_G_"]] }
+    ],
+    [
+      "La douleur se propage vers le front.",
+      { "entities": [[11, 35, "DOULEURXX_IRRAD_@_FRONT"]] }
+    ],
+    [
+      "La douleur se propage vers le haut du thorax.",
+      { "entities": [[11, 44, "DOULEURXX_IRRAD_@_HAUT_DU_THORAX"]] }
+    ],
+    [
+      "La douleur se propage vers le menton.",
+      { "entities": [[11, 36, "DOULEURXX_IRRAD_@_MENTON"]] }
+    ],
+    [
+      "La douleur se propage vers la mâchoire.",
+      { "entities": [[11, 38, "DOULEURXX_IRRAD_@_MÂCHOIRE"]] }
+    ],
+    [
+      "La douleur se propage vers le nez.",
+      { "entities": [[11, 33, "DOULEURXX_IRRAD_@_NEZ"]] }
+    ],
+    [
+      "La douleur se propage vers nulle part.",
+      { "entities": [[11, 37, "DOULEURXX_IRRAD_@_NULLE_PART"]] }
+    ],
+    [
+      "La douleur se propage vers l'omoplate droite.",
+      { "entities": [[11, 44, "DOULEURXX_IRRAD_@_OMOPLATE_D_"]] }
+    ],
+    [
+      "La douleur se propage vers l'omoplate gauche.",
+      { "entities": [[11, 44, "DOULEURXX_IRRAD_@_OMOPLATE_G_"]] }
+    ],
+    [
+      "La douleur se propage vers le sein droit.",
+      { "entities": [[11, 40, "DOULEURXX_IRRAD_@_SEIN_D_"]] }
+    ],
+    [
+      "La douleur se propage vers le sein gauche.",
+      { "entities": [[11, 41, "DOULEURXX_IRRAD_@_SEIN_G_"]] }
+    ],
+    [
+      "La douleur se propage sous la mâchoire.",
+      { "entities": [[11, 38, "DOULEURXX_IRRAD_@_SOUS_LA_MACHOIRE"]] }
+    ],
+    [
+      "La douleur se propage vers la tempe droite.",
+      { "entities": [[11, 42, "DOULEURXX_IRRAD_@_TEMPE_D_"]] }
+    ],
+    [
+      "La douleur se propage vers la tempe gauche.",
+      { "entities": [[11, 42, "DOULEURXX_IRRAD_@_TEMPE_G_"]] }
+    ],
+    [
+      "La douleur se propage vers le thorax postérieur droit.",
+      { "entities": [[11, 53, "DOULEURXX_IRRAD_@_THORAX_POSTÉRIEUR_D_"]] }
+    ],
+    [
+      "La douleur se propage vers le thorax postérieur gauche.",
+      { "entities": [[11, 54, "DOULEURXX_IRRAD_@_THORAX_POSTÉRIEUR_G_"]] }
+    ],
+    [
+      "La douleur se propage vers la trachée.",
+      { "entities": [[11, 37, "DOULEURXX_IRRAD_@_TRACHÉE"]] }
+    ],
+    [
+      "La douleur se propage vers le triceps droit.",
+      { "entities": [[11, 43, "DOULEURXX_IRRAD_@_TRICEPS_D_"]] }
+    ],
+    [
+      "La douleur se propage vers le triceps gauche.",
+      { "entities": [[11, 44, "DOULEURXX_IRRAD_@_TRICEPS_G_"]] }
+    ],
+    [
+      "La douleur se propage vers l'épaule droite.",
+      { "entities": [[11, 42, "DOULEURXX_IRRAD_@_ÉPAULE_D_"]] }
+    ],
+    [
+      "La douleur se propage vers l'épaule gauche.",
+      { "entities": [[11, 42, "DOULEURXX_IRRAD_@_ÉPAULE_G_"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 0.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_0"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 1.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_1"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 2.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_2"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 3.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_3"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 4.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_4"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 5.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_5"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 6.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_6"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 7.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_7"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 8.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_8"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 9.",
+      { "entities": [[34, 48, "DOULEURXX_PRECIS_@_9"]] }
+    ],
+    [
+      "La douleur est localisée avec une précision de 10.",
+      { "entities": [[34, 49, "DOULEURXX_PRECIS_@_10"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 0.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_0"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 1.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_1"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 2.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_2"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 3.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_3"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 4.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_4"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 5.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_5"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 6.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_6"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 7.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_7"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 8.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_8"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 9.",
+      { "entities": [[32, 44, "DOULEURXX_SOUDAIN_@_9"]] }
+    ],
+    [
+      "La douleur est apparue avec une vitesse de 10.",
+      { "entities": [[32, 45, "DOULEURXX_SOUDAIN_@_10"]] }
+    ],
+    [
+      "Je prends des boissons énergisantes régulièrement.",
+      { "entities": [[14, 35, "DRINK_ENERGIE"]] }
+    ],
+    [
+      "J'utilise actuellement des drogues intraveineuses.",
+      { "entities": [[27, 49, "DROGUES_IV"]] }
+    ],
+    [
+      "Je prends régulièrement des substances illicites stimulantes.",
+      { "entities": [[28, 60, "DROGUES_STIMUL"]] }
+    ],
+    [
+      "J'ai de la difficulté à articuler les mots.",
+      { "entities": [[11, 42, "DYSARTHRIE"]] }
+    ],
+    [
+      "Je me sens facilement essoufflé à l'effort.",
+      { "entities": [[22, 42, "DYSP_EFFORT"]] }
+    ],
+    [
+      "J'ai de la difficulté à avaler ou je ressens une sensation de gêne ou de blocage lors de la déglutition.",
+      {
+        "entities": [
+          [11, 30, "DYSPHAGIE"],
+          [49, 66, "DYSPHAGIE"],
+          [73, 103, "DYSPHAGIE"]
+        ]
+      }
+    ],
+    [
+      "Je me sens essoufflé ou j'ai de la difficulté à respirer de façon importante.",
+      {
+        "entities": [
+          [11, 20, "DYSPN"],
+          [35, 76, "DYSPN"]
+        ]
+      }
+    ],
+    [
+      "Je fais des crises de suffocation qui me réveillent la nuit.",
+      { "entities": [[12, 59, "DYSPN_NOCT"]] }
+    ],
+    ["Je souffre de diabète.", { "entities": [[14, 21, "E10_E11"]] }],
+    [
+      "J'ai un surpoids important par rapport aux personnes de la même taille que moi.",
+      { "entities": [[8, 16, "E66"]] }
+    ],
+    [
+      "Je souffre d'hypercholestérolémie ou je prends des médicaments pour traiter un taux de cholestérol élevé.",
+      {
+        "entities": [
+          [11, 33, "E78.5"],
+          [87, 104, "E78.5"]
+        ]
+      }
+    ],
+    [
+      "J'ai eu une ou des épisodes d'aggravation ou de détérioration de ma maladie pulmonaire obstructive chronique dans la dernière année.",
+      { "entities": [[68, 108, "EAMPOC1"]] }
+    ],
+    [
+      "J'ai été en contact avec une personne infectée par le virus Ebola dans le dernier mois.",
+      { "entities": [[60, 65, "EBOLACASE"]] }
+    ],
+    [
+      "J'ai remarqué une rougeur diffuse à un œil ou aux deux yeux.",
+      { "entities": [[18, 33, "ERYTHEME_OCC"]] }
+    ],
+    [
+      "J'ai l'impression que je m'étouffe ou j'ai eu l'impression que je m'étouffais.",
+      {
+        "entities": [
+          [25, 34, "ETOUFF"],
+          [66, 77, "ETOUFF"]
+        ]
+      }
+    ],
+    [
+      "J'ai l'impression de me sentir légèrement étourdi ou d'avoir une impression de déséquilibre léger.",
+      {
+        "entities": [
+          [42, 49, "ETOURDISSEMENT"],
+          [79, 97, "ETOURDISSEMENT"]
+        ]
+      }
+    ],
+    [
+      "J'ai une toux produisant des crachats colorés ou plus abondants qu'habituellement.",
+      { "entities": [[29, 45, "EXPECTO"]] }
+    ],
+    [
+      "Je prends de l'alcool de façon excessive ou j'ai une dépendance à l'alcool.",
+      {
+        "entities": [
+          [13, 21, "F10.129"],
+          [53, 74, "F10.129"]
+        ]
+      }
+    ],
+    [
+      "Je fume la cigarette quotidiennement.",
+      { "entities": [[11, 20, "F17.210"]] }
+    ],
+    [
+      "J'ai déjà fait une dépression diagnostiquée par un médecin.",
+      { "entities": [[19, 29, "F32"]] }
+    ],
+    ["Je souffre d'anxiété chronique.", { "entities": [[11, 30, "F41.9"]] }],
+    [
+      "Je me sens faible et étourdi ou j'ai l'impression que je vais perdre conscience.",
+      {
+        "entities": [
+          [11, 17, "FAIBLE"],
+          [62, 79, "FAIBLE"]
+        ]
+      }
+    ],
+    [
+      "J'ai noté une faiblesse au niveau des muscles du visage et/ou des yeux.",
+      { "entities": [[14, 55, "FAIBLESSE FACIALE"]] }
+    ],
+    [
+      "J'ai présentement une faiblesse des deux bras et/ou des deux jambes.",
+      { "entities": [[22, 45, "FAIBLESSE_MSMI"]] }
+    ],
+    [
+      "J'ai des membres de ma famille proche qui souffrent d'allergies (tout type), de rhume des foins ou d'eczéma.",
+      { "entities": [[9, 63, "FAM_ATOPIE"]] }
+    ],
+    [
+      "J'ai des membres de ma famille qui font de l'asthme.",
+      { "entities": [[9, 51, "FAM_J45"]] }
+    ],
+    [
+      "Je me sens incapable de faire mes activités ou je suis cloué au lit toute la journée.",
+      {
+        "entities": [
+          [11, 43, "FATIG_EXT"],
+          [55, 67, "FATIG_EXT"]
+        ]
+      }
+    ],
+    [
+      "Je ressens une fatigue constante ou j'ai un sommeil non réparateur.",
+      {
+        "entities": [
+          [15, 32, "FATIG_MOD"],
+          [44, 66, "FATIG_MOD"]
+        ]
+      }
+    ],
+    [
+      "Mes symptômes de faiblesse musculaire augmentent avec la fatigue et/ou le stress.",
+      { "entities": [[38, 64, "FATIGABILITÉ_MSK"]] }
+    ],
+    [
+      "J'ai objectivé ou ressenti de la fièvre.",
+      { "entities": [[33, 39, "FIEVRE"]] }
+    ],
+    [
+      "Mes joues sont devenues rouges soudainement.",
+      { "entities": [[4, 30, "FLUSHING"]] }
+    ],
+    [
+      "J'ai des engourdissements, une perte de sensibilité ou des fourmillements dans les pieds.",
+      {
+        "entities": [
+          [9, 25, "FOOTNUMB"],
+          [31, 88, "FOOTNUMB"]
+        ]
+      }
+    ],
+    ["J'ai eu des frissons.", { "entities": [[12, 20, "FRISS"]] }],
+    [
+      "Je souffre de la maladie de Parkinson.",
+      { "entities": [[17, 37, "G20"]] }
+    ],
+    ["J'ai pris du poids récemment.", { "entities": [[5, 18, "GAIN_POIDS"]] }],
+    ["J'ai mal à la gorge.", { "entities": [[5, 19, "GORGE_DLR"]] }],
+    ["J'ai une hernie hiatale.", { "entities": [[9, 23, "HERNIE_HIATALE"]] }],
+    [
+      "J'ai déjà fait une migraine ou un membre de ma famille est connu pour faire des migraines.",
+      {
+        "entities": [
+          [19, 27, "HISTFAMMIGRAINE"],
+          [34, 89, "HISTFAMMIGRAINE"]
+        ]
+      }
+    ],
+    ["Je prends des hormones.", { "entities": [[14, 22, "HORM1"]] }],
+    [
+      "J'ai été hospitalisé pour une crise d'asthme dans la dernière année.",
+      { "entities": [[30, 44, "HOSPTISASM"]] }
+    ],
+    [
+      "Je consulte ou j'ai été référé car ma tension artérielle est élevée.",
+      { "entities": [[38, 67, "HTA"]] }
+    ],
+    [
+      "J'ai une perte d'odorat accompagnant mes symptômes.",
+      { "entities": [[9, 23, "HYPONOS"]] }
+    ],
+    [
+      "Je souffre d'hypertension ou je prends des médicaments pour traiter la haute pression.",
+      {
+        "entities": [
+          [11, 25, "I10"],
+          [71, 85, "I10"]
+        ]
+      }
+    ],
+    [
+      "J'ai déjà fait une crise cardiaque ou je fais de l'angine.",
+      {
+        "entities": [
+          [19, 34, "I25.1"],
+          [49, 57, "I25.1"]
+        ]
+      }
+    ],
+    [
+      "Je suis atteint d'insuffisance cardiaque.",
+      { "entities": [[16, 40, "I50"]] }
+    ],
+    [
+      "J'ai déjà fait un accident vasculaire cérébral ou un AVC.",
+      {
+        "entities": [
+          [18, 46, "I60-I69"],
+          [53, 56, "I60-I69"]
+        ]
+      }
+    ],
+    [
+      "J'ai un problème de mauvaise circulation sanguine.",
+      { "entities": [[20, 49, "I73.9"]] }
+    ],
+    [
+      "J'ai déjà fait une thrombophlébite profonde.",
+      { "entities": [[19, 43, "I80"]] }
+    ],
+    [
+      "J'ai été incapable de me mobiliser ou de me lever plus de 3 jours consécutifs dans le dernier mois.",
+      { "entities": [[9, 49, "IMMOB1"]] }
+    ],
+    [
+      "J'ai l'impression que je pourrais mourir ou que je vais mourir.",
+      { "entities": [[5, 62, "IMPRESSION_MORT"]] }
+    ],
+    [
+      "J'ai une inspiration sifflante après mes quintes de toux.",
+      { "entities": [[9, 30, "INSP_SIFFLA"]] }
+    ],
+    [
+      "Je souffre d'insuffisance rénale chronique.",
+      { "entities": [[11, 42, "IRC"]] }
+    ],
+    [
+      "Je suis plus irritable dernièrement ou j'ai une humeur très changeante.",
+      {
+        "entities": [
+          [13, 22, "IRRITABLE"],
+          [48, 70, "IRRITABLE"]
+        ]
+      }
+    ],
+    [
+      "J'ai eu des relations sexuelles non protégées avec plus d'un partenaire dans les derniers 6 mois.",
+      { "entities": [[12, 45, "ITSS_RISQUE"]] }
+    ],
+    [
+      "J'ai eu un rhume, au cours des 2 dernières semaines.",
+      { "entities": [[11, 16, "J06.9"]] }
+    ],
+    ["J'ai déjà fait une pneumonie.", { "entities": [[19, 28, "J17_J18"]] }],
+    [
+      "J'ai un diagnostic de sinusite chronique fait par un médecin.",
+      { "entities": [[22, 40, "J32"]] }
+    ],
+    ["J'ai des polypes dans le nez.", { "entities": [[9, 28, "J33"]] }],
+    [
+      "Je suis connu pour avoir une déviation du septum ou une cloison nasale.",
+      {
+        "entities": [
+          [29, 48, "J34.2"],
+          [56, 70, "J34.2"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de maladie pulmonaire obstructive chronique.",
+      { "entities": [[14, 54, "J44_J42"]] }
+    ],
+    [
+      "Je souffre d'asthme ou j'ai déjà eu une prescription de bronchodilatateurs dans le passé.",
+      {
+        "entities": [
+          [11, 19, "J45"],
+          [56, 74, "J45"]
+        ]
+      }
+    ],
+    [
+      "J'ai déjà reçu un diagnostic de reflux gastro-œsophagien.",
+      { "entities": [[32, 56, "K21"]] }
+    ],
+    ["Je souffre de cirrhose hépatique.", { "entities": [[14, 32, "K74"]] }],
+    [
+      "J'ai l'impression que mon œil produit des larmes de façon excessive.",
+      { "entities": [[42, 67, "LARMES"]] }
+    ],
+    [
+      "J'ai eu l'impression que je m'étouffais pendant un court instant et que j'étais incapable de respirer ou de parler.",
+      {
+        "entities": [
+          [28, 64, "LARYNGOSPASME"],
+          [72, 114, "LARYNGOSPASME"]
+        ]
+      }
+    ],
+    [
+      "J'ai des lésions, des rougeurs ou des problèmes au niveau de ma peau que je crois être reliés à la condition pour laquelle je consulte.",
+      {
+        "entities": [
+          [9, 16, "LESIONS_PEAU"],
+          [22, 68, "LESIONS_PEAU"]
+        ]
+      }
+    ],
+    [
+      "Les lésions sont d’aucune couleur.",
+      { "entities": [[4, 33, "LESIONS_PEAU_COULEUR_@_NA"]] }
+    ],
+    [
+      "Les lésions sont jaunes.",
+      { "entities": [[4, 23, "LESIONS_PEAU_COULEUR_@_JAUNE"]] }
+    ],
+    [
+      "Les lésions sont pales.",
+      { "entities": [[4, 22, "LESIONS_PEAU_COULEUR_@_PALE"]] }
+    ],
+    [
+      "Les lésions sont roses.",
+      { "entities": [[4, 22, "LESIONS_PEAU_COULEUR_@_ROSE"]] }
+    ],
+    [
+      "Les lésions sont rouges.",
+      { "entities": [[4, 23, "LESIONS_PEAU_COULEUR_@_ROUGE"]] }
+    ],
+    [
+      "Les lésions pèlent.",
+      { "entities": [[4, 18, "LESIONS_PEAU_DESQUAME_@_N"]] }
+    ],
+    [
+      "Les lésions ne pèlent pas.",
+      { "entities": [[4, 25, "LESIONS_PEAU_DESQUAME_@_O"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 0.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_0"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 1.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_1"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 2.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_2"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 3.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_3"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 4.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_4"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 5.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_5"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 6.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_6"]] }
+    ],
+    [
+      "Les lésions sont surélevées d'un niveau 7.",
+      { "entities": [[17, 41, "LESIONS_PEAU_ELEVEE_@_7"]] }
+    ],
+    [
+      "Je souffre de lésions dans l'arrière du cou.",
+      { "entities": [[14, 43, "LESIONS_PEAU_ENDROITDUCORPS_@_ARRIÈRE_DU_COU"]] }
+    ],
+    [
+      "Je souffre de lésions dans l'avant-bras droit.",
+      { "entities": [[14, 45, "LESIONS_PEAU_ENDROITDUCORPS_@_AVANT-BRAS_D_"]] }
+    ],
+    [
+      "Je souffre de lésions dans l'avant-bras gauche.",
+      { "entities": [[14, 46, "LESIONS_PEAU_ENDROITDUCORPS_@_AVANT-BRAS_G_"]] }
+    ],
+    [
+      "Je souffre de lésions dans le biceps droit.",
+      { "entities": [[14, 42, "LESIONS_PEAU_ENDROITDUCORPS_@_BICEPS_D_"]] }
+    ],
+    [
+      "Je souffre de lésions dans le biceps gauche.",
+      { "entities": [[14, 43, "LESIONS_PEAU_ENDROITDUCORPS_@_BICEPS_G_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la bouche.",
+      { "entities": [[14, 36, "LESIONS_PEAU_ENDROITDUCORPS_@_BOUCHE"]] }
+    ],
+    [
+      "Je souffre de lésions dans le cartilage thyroidien.",
+      {
+        "entities": [
+          [14, 50, "LESIONS_PEAU_ENDROITDUCORPS_@_CARTILAGE_THYROIDIEN"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions dans la cheville droite.",
+      { "entities": [[14, 45, "LESIONS_PEAU_ENDROITDUCORPS_@_CHEVILLE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la cheville gauche.",
+      { "entities": [[14, 45, "LESIONS_PEAU_ENDROITDUCORPS_@_CHEVILLE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la colonne cervicale.",
+      {
+        "entities": [
+          [14, 47, "LESIONS_PEAU_ENDROITDUCORPS_@_COLONNE_CERVICALE"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions dans la colonne dorsale.",
+      {
+        "entities": [[14, 45, "LESIONS_PEAU_ENDROITDUCORPS_@_COLONNE_DORSALE"]]
+      }
+    ],
+    [
+      "Je souffre de lésions dans la colonne lombaire.",
+      {
+        "entities": [[14, 46, "LESIONS_PEAU_ENDROITDUCORPS_@_COLONNE_LOMBAIRE"]]
+      }
+    ],
+    [
+      "Je souffre de lésions dans la commissure droite.",
+      { "entities": [[14, 47, "LESIONS_PEAU_ENDROITDUCORPS_@_COMMISSURE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la commissure gauche.",
+      { "entities": [[14, 47, "LESIONS_PEAU_ENDROITDUCORPS_@_COMMISSURE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la cuisse droite.",
+      { "entities": [[14, 43, "LESIONS_PEAU_ENDROITDUCORPS_@_CUISSE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la cuisse gauche.",
+      { "entities": [[14, 43, "LESIONS_PEAU_ENDROITDUCORPS_@_CUISSE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le côté du cou droit.",
+      { "entities": [[14, 46, "LESIONS_PEAU_ENDROITDUCORPS_@_CÔTÉ_DU_COU_D_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le côté du cou gauche.",
+      { "entities": [[14, 47, "LESIONS_PEAU_ENDROITDUCORPS_@_CÔTÉ_DU_COU_G_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le dessus de la langue.",
+      {
+        "entities": [
+          [14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_DESSUS_DE_LA_LANGUE"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la face dorsale de la main droite.",
+      {
+        "entities": [
+          [14, 59, "LESIONS_PEAU_ENDROITDUCORPS_@_FACE_DORSALE_MAIN_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la face dorsale de la main gauche.",
+      {
+        "entities": [
+          [14, 59, "LESIONS_PEAU_ENDROITDUCORPS_@_FACE_DORSALE_MAIN_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la fesse droite.",
+      { "entities": [[14, 41, "LESIONS_PEAU_ENDROITDUCORPS_@_FESSE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions sur la fesse gauche.",
+      { "entities": [[14, 41, "LESIONS_PEAU_ENDROITDUCORPS_@_FESSE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le flanc droit.",
+      { "entities": [[14, 40, "LESIONS_PEAU_ENDROITDUCORPS_@_FLANC_D_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le flanc gauche.",
+      { "entities": [[14, 41, "LESIONS_PEAU_ENDROITDUCORPS_@_FLANC_G_"]] }
+    ],
+    [
+      "Je souffre de lésions dans la fosse iliaque droite.",
+      {
+        "entities": [[14, 50, "LESIONS_PEAU_ENDROITDUCORPS_@_FOSSE_ILIAQUE_D_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions dans la fosse iliaque gauche.",
+      {
+        "entities": [[14, 50, "LESIONS_PEAU_ENDROITDUCORPS_@_FOSSE_ILIAQUE_G_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur le front.",
+      { "entities": [[14, 34, "LESIONS_PEAU_ENDROITDUCORPS_@_FRONT"]] }
+    ],
+    [
+      "Je souffre de lésions sur la gencive inférieure.",
+      {
+        "entities": [
+          [14, 47, "LESIONS_PEAU_ENDROITDUCORPS_@_GENCIVE_INFÉRIEURE"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la gencive supérieure.",
+      {
+        "entities": [
+          [14, 47, "LESIONS_PEAU_ENDROITDUCORPS_@_GENCIVE_SUPÉRIEURE"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la grande lèvre droite.",
+      {
+        "entities": [[14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_GRANDE_LÈVRE_D_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la grande lèvre gauche.",
+      {
+        "entities": [[14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_GRANDE_LÈVRE_G_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la joue droite.",
+      { "entities": [[14, 40, "LESIONS_PEAU_ENDROITDUCORPS_@_JOUE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions sur la joue gauche.",
+      { "entities": [[14, 40, "LESIONS_PEAU_ENDROITDUCORPS_@_JOUE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions sur la joue interne droite.",
+      {
+        "entities": [[14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_JOUE_INTERNE_D_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la joue interne gauche.",
+      {
+        "entities": [[14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_JOUE_INTERNE_G_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la lèvre inférieure droite.",
+      {
+        "entities": [
+          [14, 52, "LESIONS_PEAU_ENDROITDUCORPS_@_LÈVRE_INFERIEURE_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la lèvre supérieure droite.",
+      {
+        "entities": [
+          [14, 52, "LESIONS_PEAU_ENDROITDUCORPS_@_LÈVRE_SUPÉRIEURE_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur le nez.",
+      { "entities": [[14, 32, "LESIONS_PEAU_ENDROITDUCORPS_@_NEZ"]] }
+    ],
+    [
+      "Je souffre de lésions nulle part.",
+      { "entities": [[14, 32, "LESIONS_PEAU_ENDROITDUCORPS_@_NULLE_PART"]] }
+    ],
+    [
+      "Je souffre de lésions sur le palais.",
+      { "entities": [[14, 35, "LESIONS_PEAU_ENDROITDUCORPS_@_PALAIS"]] }
+    ],
+    [
+      "Je souffre de lésions sur la petite lèvre droite.",
+      {
+        "entities": [[14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_PETITE_LÈVRE_D_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur la petite lèvre gauche.",
+      {
+        "entities": [[14, 48, "LESIONS_PEAU_ENDROITDUCORPS_@_PETITE_LÈVRE_G_"]]
+      }
+    ],
+    [
+      "Je souffre de lésions sur le pénis.",
+      { "entities": [[14, 34, "LESIONS_PEAU_ENDROITDUCORPS_@_PÉNIS"]] }
+    ],
+    [
+      "Je souffre de lésions sur le scrotum.",
+      { "entities": [[14, 36, "LESIONS_PEAU_ENDROITDUCORPS_@_SCROTUM"]] }
+    ],
+    [
+      "Je souffre de lésions sous la langue.",
+      { "entities": [[14, 36, "LESIONS_PEAU_ENDROITDUCORPS_@_SOUS_LA_LANGUE"]] }
+    ],
+    [
+      "Je souffre de lésions sur le testicule droit.",
+      { "entities": [[14, 44, "LESIONS_PEAU_ENDROITDUCORPS_@_TESTICULE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le testicule gauche.",
+      { "entities": [[14, 45, "LESIONS_PEAU_ENDROITDUCORPS_@_TESTICULE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions sur le thorax postérieur droit.",
+      {
+        "entities": [
+          [14, 52, "LESIONS_PEAU_ENDROITDUCORPS_@_THORAX_POSTÉRIEUR_D_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur le thorax postérieur gauche.",
+      {
+        "entities": [
+          [14, 53, "LESIONS_PEAU_ENDROITDUCORPS_@_THORAX_POSTÉRIEUR_G_"]
+        ]
+      }
+    ],
+    [
+      "Je souffre de lésions sur le vagin.",
+      { "entities": [[14, 34, "LESIONS_PEAU_ENDROITDUCORPS_@_VAGIN"]] }
+    ],
+    [
+      "Je souffre de lésions sur le ventre.",
+      { "entities": [[14, 35, "LESIONS_PEAU_ENDROITDUCORPS_@_VENTRE"]] }
+    ],
+    [
+      "Je souffre de lésions sur l'épaule droite.",
+      { "entities": [[14, 41, "LESIONS_PEAU_ENDROITDUCORPS_@_ÉPAULE_D_"]] }
+    ],
+    [
+      "Je souffre de lésions sur l'épaule gauche.",
+      { "entities": [[14, 41, "LESIONS_PEAU_ENDROITDUCORPS_@_ÉPAULE_G_"]] }
+    ],
+    [
+      "Je souffre de lésions sur l'épigastre.",
+      { "entities": [[14, 37, "LESIONS_PEAU_ENDROITDUCORPS_@_ÉPIGASTRE"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 0.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_0"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 1.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_1"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 2.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_2"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 3.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_3"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 4.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_4"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 5.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_5"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 6.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_6"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 7.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_7"]] }
+    ],
+    [
+      "Les lésions sont d'une intensité 8.",
+      { "entities": [[4, 34, "LESIONS_PEAU_INTENS_@_8"]] }
+    ],
+    [
+      "Les lésions font moins qu’un cm.",
+      { "entities": [[4, 31, "LESIONS_PEAU_PLUSQU1CM_@_N"]] }
+    ],
+    [
+      "Les lésions font plus qu’un cm.",
+      { "entities": [[4, 30, "LESIONS_PEAU_PLUSQU1CM_@_O"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 0.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_0"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 1.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_1"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 10.",
+      { "entities": [[3, 34, "LESIONS_PEAU_PRURIT_@_10"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 2.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_2"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 3.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_3"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 4.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_4"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 5.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_5"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 6.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_6"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 7.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_7"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 8.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_8"]] }
+    ],
+    [
+      "La démangeaison est d'un niveau 9.",
+      { "entities": [[3, 33, "LESIONS_PEAU_PRURIT_@_9"]] }
+    ],
+    [
+      "On m'a déjà retiré les ganglions lors d'une opération dans le passé.",
+      { "entities": [[12, 32, "LYMPHOEDÈME"]] }
+    ],
+    ["Je souffre de fibromyalgie.", { "entities": [[14, 26, "M79.7"]] }],
+    [
+      "Je suis connu pour avoir une malformation cardiaque.",
+      { "entities": [[29, 51, "MALF_CARDIAQUE"]] }
+    ],
+    [
+      "J'ai eu récemment des selles noires comme du charbon.",
+      { "entities": [[22, 35, "MELENA"]] }
+    ],
+    [
+      "J'ai eu mes premières menstruations avant l'âge de 12 ans.",
+      { "entities": [[22, 57, "MENARCHE_HAT"]] }
+    ],
+    ["Ma mère souffre d'asthme.", { "entities": [[3, 24, "MOMASTHMA"]] }],
+    [
+      "Je fais de l'activité physique régulièrement, soit 4 fois par semaine ou plus.",
+      { "entities": [[11, 44, "MOVE"]] }
+    ],
+    [
+      "J'ai des douleurs musculaires diffuses.",
+      { "entities": [[9, 38, "MSK_DLR"]] }
+    ],
+    [
+      "J'ai des menstruations très abondantes ou très longues.",
+      { "entities": [[9, 54, "MÉNORR"]] }
+    ],
+    [
+      "Je prends des nouveaux anticoagulants oraux.",
+      { "entities": [[23, 43, "NACO"]] }
+    ],
+    [
+      "J'ai été traité à l'hôpital récemment pour de la nausée, de l'agitation, une intoxication ou de l'agressivité et j'ai reçu un médicament via une voie intra-veineuse ou intra-musculaire.",
+      {
+        "entities": [
+          [28, 55, "NAU_PSY_RECENT"],
+          [60, 71, "NAU_PSY_RECENT"],
+          [77, 89, "NAU_PSY_RECENT"],
+          [96, 109, "NAU_PSY_RECENT"],
+          [145, 184, "NAU_PSY_RECENT"]
+        ]
+      }
+    ],
+    [
+      "J'ai des nausées ou envie de vomir.",
+      {
+        "entities": [
+          [9, 16, "NAUSEE"],
+          [20, 34, "NAUSEE"]
+        ]
+      }
+    ],
+    [
+      "Je prends un médicament de la classe des bloqueurs des canaux calciques.",
+      { "entities": [[41, 71, "NORVASC"]] }
+    ],
+    [
+      "Je passe des selles ou des gaz depuis que mes symptômes sont pires.",
+      { "entities": [[3, 30, "OBSTIPATION"]] }
+    ],
+    [
+      "J'ai de l'enflure à un ou plusieurs endroits sur mon corps.",
+      { "entities": [[8, 17, "OEDEME"]] }
+    ],
+    [
+      "L'enflure se situe dans l'arrière de la cheville droite.",
+      {
+        "entities": [
+          [0, 55, "OEDEME_ENDROITDUCORPS_@_ARRIÈRE_DE_LA_CHEVILLE_D_"]
+        ]
+      }
+    ],
+    [
+      "L'enflure se situe dans l'arrière de la cheville gauche.",
+      {
+        "entities": [
+          [0, 55, "OEDEME_ENDROITDUCORPS_@_ARRIÈRE_DE_LA_CHEVILLE_G_"]
+        ]
+      }
+    ],
+    [
+      "L'enflure se situe dans la cheville droite.",
+      { "entities": [[0, 42, "OEDEME_ENDROITDUCORPS_@_CHEVILLE_D_"]] }
+    ],
+    [
+      "L'enflure se situe dans la cheville gauche.",
+      { "entities": [[0, 42, "OEDEME_ENDROITDUCORPS_@_CHEVILLE_G_"]] }
+    ],
+    [
+      "L'enflure se situe sur le côté latéral du pied droit.",
+      {
+        "entities": [[0, 52, "OEDEME_ENDROITDUCORPS_@_COTÉ_LATERAL_DU_PIED_D_"]]
+      }
+    ],
+    [
+      "L'enflure se situe sur le côté latéral du pied gauche.",
+      {
+        "entities": [[0, 53, "OEDEME_ENDROITDUCORPS_@_COTÉ_LATERAL_DU_PIED_G_"]]
+      }
+    ],
+    [
+      "L'enflure se situe dans la cuisse droite.",
+      { "entities": [[0, 40, "OEDEME_ENDROITDUCORPS_@_CUISSE_D_"]] }
+    ],
+    [
+      "L'enflure se situe dans la cuisse gauche.",
+      { "entities": [[0, 40, "OEDEME_ENDROITDUCORPS_@_CUISSE_G_"]] }
+    ],
+    [
+      "L'enflure se situe sur la face dorsale du pied droit.",
+      {
+        "entities": [[0, 52, "OEDEME_ENDROITDUCORPS_@_FACE_DORSALE_DU_PIED_D_"]]
+      }
+    ],
+    [
+      "L'enflure se situe sur la face dorsale du pied gauche.",
+      {
+        "entities": [[0, 53, "OEDEME_ENDROITDUCORPS_@_FACE_DORSALE_DU_PIED_G_"]]
+      }
+    ],
+    [
+      "L'enflure se situe sur le front.",
+      { "entities": [[0, 31, "OEDEME_ENDROITDUCORPS_@_FRONT"]] }
+    ],
+    [
+      "L'enflure se situe sur la joue droite.",
+      { "entities": [[0, 37, "OEDEME_ENDROITDUCORPS_@_JOUE_D_"]] }
+    ],
+    [
+      "L'enflure se situe sur la joue gauche.",
+      { "entities": [[0, 37, "OEDEME_ENDROITDUCORPS_@_JOUE_G_"]] }
+    ],
+    [
+      "L'enflure se situe dans le mollet droit.",
+      { "entities": [[0, 39, "OEDEME_ENDROITDUCORPS_@_MOLLET_D_"]] }
+    ],
+    [
+      "L'enflure se situe dans le mollet gauche.",
+      { "entities": [[0, 40, "OEDEME_ENDROITDUCORPS_@_MOLLET_G_"]] }
+    ],
+    [
+      "L'enflure se situe sur le nez.",
+      { "entities": [[0, 29, "OEDEME_ENDROITDUCORPS_@_NEZ"]] }
+    ],
+    [
+      "Je n'ai pas d'enflure à un endroit spécifique.",
+      { "entities": [[0, 45, "OEDEME_ENDROITDUCORPS_@_NULLE_PART"]] }
+    ],
+    [
+      "L'enflure se situe sur le gros orteil droit.",
+      { "entities": [[0, 43, "OEDEME_ENDROITDUCORPS_@_ORTEIL__1__D_"]] }
+    ],
+    [
+      "L'enflure se situe sur le gros orteil gauche.",
+      { "entities": [[0, 44, "OEDEME_ENDROITDUCORPS_@_ORTEIL__1__G_"]] }
+    ],
+    [
+      "L'enflure se situe sur le deuxième orteil droit.",
+      { "entities": [[0, 47, "OEDEME_ENDROITDUCORPS_@_ORTEIL__2__D_"]] }
+    ],
+    [
+      "L'enflure se situe sur la plante du pied droit.",
+      { "entities": [[0, 46, "OEDEME_ENDROITDUCORPS_@_PLANTE_DU_PIED_D_"]] }
+    ],
+    [
+      "L'enflure se situe sur la plante du pied gauche.",
+      { "entities": [[0, 47, "OEDEME_ENDROITDUCORPS_@_PLANTE_DU_PIED_G_"]] }
+    ],
+    [
+      "L'enflure se situe sur le tibia droit.",
+      { "entities": [[0, 37, "OEDEME_ENDROITDUCORPS_@_TIBIA_D_"]] }
+    ],
+    [
+      "L'enflure se situe sur le tibia gauche.",
+      { "entities": [[0, 38, "OEDEME_ENDROITDUCORPS_@_TIBIA_G_"]] }
+    ],
+    [
+      "Je suis traité(e) pour de l'ostéoporose.",
+      { "entities": [[26, 39, "OSTEOPOROSE"]] }
+    ],
+    [
+      "Mon teint est beaucoup plus pâle que d'habitude.",
+      { "entities": [[4, 32, "PALE"]] }
+    ],
+    [
+      "J'ai l'impression que mon cœur bat vite, de façon irrégulière, et je ressens des palpitations.",
+      {
+        "entities": [
+          [22, 39, "PALPIT"],
+          [69, 93, "PALPIT"]
+        ]
+      }
+    ],
+    [
+      "J'ai eu une faiblesse ou une paralysie d'un côté du visage, qui peut être encore présente ou complètement résolue.",
+      { "entities": [[12, 58, "PARALYSIE_VISAGE"]] }
+    ],
+    [
+      "J'ai présentement ou j'ai récemment eu des engourdissements, une perte de sensibilité ou des fourmillements dans les mains, les pieds et autour de la bouche.",
+      {
+        "entities": [
+          [43, 59, "PARESTHESIES_BILAT"],
+          [65, 85, "PARESTHESIES_BILAT"],
+          [93, 156, "PARESTHESIES_BILAT"]
+        ]
+      }
+    ],
+    [
+      "Je souffre d'une maladie endocrinienne ou d'un dysfonctionnement hormonal.",
+      {
+        "entities": [
+          [17, 38, "PATHO_ENDO"],
+          [47, 73, "PATHO_ENDO"]
+        ]
+      }
+    ],
+    ["J'ai perdu conscience.", { "entities": [[5, 21, "PDC"]] }],
+    [
+      "Je suis né(e) de façon prématurée ou j'ai souffert de complications à la naissance.",
+      {
+        "entities": [
+          [8, 33, "PERINATALITY"],
+          [54, 82, "PERINATALITY"]
+        ]
+      }
+    ],
+    [
+      "J'ai une perte d'appétit ou je suis rassasié(e) rapidement.",
+      { "entities": [[9, 24, "PERTE_APPET"]] }
+    ],
+    [
+      "J'ai eu une perte de poids involontaire dans les 3 derniers mois.",
+      { "entities": [[12, 39, "PERTE_POIDS"]] }
+    ],
+    ["J'ai des pertes vaginales.", { "entities": [[9, 25, "PERTES_VAG"]] }],
+    [
+      "Je sens que mon cœur bat de façon très irrégulière ou désorganisée.",
+      { "entities": [[16, 66, "PLS_IRREG"]] }
+    ],
+    [
+      "J'ai des membres de ma famille qui ont déjà fait un pneumothorax.",
+      { "entities": [[52, 64, "PNEUMOTHORAX"]] }
+    ],
+    [
+      "J'ai eu des vomissements après des quintes de toux.",
+      { "entities": [[12, 50, "POSTTUS_EMESIS"]] }
+    ],
+    [
+      "Je crois être enceinte ou je suis présentement enceinte.",
+      { "entities": [[14, 22, "PREG1"]] }
+    ],
+    [
+      "J'ai de la difficulté à garder ma langue dans ma bouche.",
+      { "entities": [[11, 55, "PROTU_LANGUE"]] }
+    ],
+    [
+      "Mon nez et/ou mon palais me piquent.",
+      { "entities": [[4, 35, "PRURIT_NASAL"]] }
+    ],
+    [
+      "J'ai des démangeaisons importantes au niveau d'un œil ou des deux yeux simultanément.",
+      { "entities": [[9, 53, "PRURIT_OCC"]] }
+    ],
+    [
+      "J'ai l'impression que je suis détaché(e) de mon propre corps ou de l'environnement qui m'entoure.",
+      { "entities": [[30, 60, "PSY_DEPERS"]] }
+    ],
+    [
+      "J'ai de la misère à ouvrir/relever une ou les deux paupières.",
+      { "entities": [[11, 60, "PTOSE"]] }
+    ],
+    [
+      "J'ai une sensation de brûlure partant du creux de l'estomac et remontant vers la bouche, avec même parfois un goût amer associé.",
+      { "entities": [[9, 87, "PYROSIS"]] }
+    ],
+    [
+      "J'ai remarqué une perte de poids involontaire ou une perte d'appétit qui semble en lien avec ma consultation aujourd'hui.",
+      { "entities": [[18, 108, "RDS_ANOREXIE"]] }
+    ],
+    [
+      "Je ressens de la fatigue, un malaise généralisé, un inconfort vague, des douleurs musculaires diffuses ou une atteinte de mon état général en lien avec ma consultation aujourd'hui.",
+      { "entities": [[17, 179, "RDS_DEG"]] }
+    ],
+    [
+      "J'ai noté une faiblesse ou une paralysie d'un ou plusieurs de mes membres ou au niveau du visage, encore présentes ou résolues.",
+      { "entities": [[14, 126, "RDS_PARALYS_GEN"]] }
+    ],
+    [
+      "J'ai présentement ou j'ai récemment eu des engourdissements, une perte de sensibilité ou des fourmillements n'importe où sur mon corps.",
+      {
+        "entities": [
+          [43, 59, "RDS_PARESTHESIE_GEN"],
+          [65, 85, "RDS_PARESTHESIE_GEN"],
+          [89, 107, "RDS_PARESTHESIE_GEN"]
+        ]
+      }
+    ],
+    [
+      "J'ai remarqué des saignements ou des bleus inhabituels en lien avec ma consultation aujourd'hui.",
+      {
+        "entities": [
+          [18, 29, "RDS_SG"],
+          [37, 95, "RDS_SG"]
+        ]
+      }
+    ],
+    [
+      "J'ai noté du sang rouge clair ou des caillots de sang dans mes selles.",
+      {
+        "entities": [
+          [13, 29, "RECTORRAGIE"],
+          [37, 69, "RECTORRAGIE"]
+        ]
+      }
+    ],
+    [
+      "Je suis incapable de contrôler la direction de mon regard.",
+      { "entities": [[8, 57, "REGARD_DÉVIÉ"]] }
+    ],
+    [
+      "J'ai de la congestion nasale ou le nez qui coule clair.",
+      {
+        "entities": [
+          [11, 28, "RHINO_CLAIR"],
+          [35, 54, "RHINO_CLAIR"]
+        ]
+      }
+    ],
+    [
+      "J'ai un écoulement nasal coloré.",
+      { "entities": [[8, 31, "RHINO_PUR"]] }
+    ],
+    ["J'habite à la campagne.", { "entities": [[14, 22, "RURAL"]] }],
+    [
+      "Je prends un médicament qui vasodilate mes vaisseaux sanguins.",
+      { "entities": [[28, 61, "RX_VASODIL"]] }
+    ],
+    [
+      "J'ai déjà eu un traumatisme crânien.",
+      { "entities": [[16, 35, "S09.90"]] }
+    ],
+    [
+      "On m'a déjà diagnostiqué un syndrome d'apnées hypopnées obstructives du sommeil (SAHOS).",
+      {
+        "entities": [
+          [28, 79, "SAHS"],
+          [81, 86, "SAHS"]
+        ]
+      }
+    ],
+    [
+      "J'ai mangé du poisson à chair foncée (tel que le thon) ou du fromage suisse avant la réaction.",
+      {
+        "entities": [
+          [14, 36, "SCOMBROIDE"],
+          [61, 75, "SCOMBROIDE"]
+        ]
+      }
+    ],
+    [
+      "J'ai des selles pâles et des urines foncées.",
+      {
+        "entities": [
+          [9, 21, "SELLES_PALE"],
+          [29, 43, "SELLES_PALE"]
+        ]
+      }
+    ],
+    [
+      "J'ai eu des relations sexuelles avec une partenaire séropositive dans les 12 derniers mois.",
+      { "entities": [[12, 64, "SEX_VIH"]] }
+    ],
+    [
+      "J'ai noté que je produis plus de salive que d'habitude.",
+      { "entities": [[17, 54, "SIALORHEE"]] }
+    ],
+    [
+      "Dans le passé, je fumais la cigarette quotidiennement.",
+      { "entities": [[18, 53, "SMOKINGPAST"]] }
+    ],
+    [
+      "J'ai l'impression qu'il y a des muscles spasmés ou endoloris dans mon cou, qui m'empêchent de tourner ma tête d'un bord ou de l'autre.",
+      { "entities": [[32, 73, "SPASME_TRAPEZE"]] }
+    ],
+    [
+      "J'ai des spasmes musculaires très incommodants au niveau du visage, du cou ou de tout autre endroit de mon corps.",
+      { "entities": [[9, 28, "SPASMES_MSK"]] }
+    ],
+    [
+      "J'ai noté un bruit respiratoire aigu surtout à l'inspiration.",
+      { "entities": [[13, 36, "STRIDOR"]] }
+    ],
+    ["J'habite en banlieue.", { "entities": [[12, 20, "SUBURB"]] }],
+    [
+      "J'ai subi une intervention chirurgicale dans le dernier mois.",
+      { "entities": [[14, 39, "SURG1"]] }
+    ],
+    [
+      "J'ai un problème rénal qui se caractérise par la perte de protéines via les reins.",
+      {
+        "entities": [
+          [8, 22, "SYND_NEPHRO"],
+          [49, 81, "SYND_NEPHRO"]
+        ]
+      }
+    ],
+    [
+      "Je travaille dans le domaine de l'agriculture.",
+      { "entities": [[32, 45, "TAGRI"]] }
+    ],
+    [
+      "Je travaille dans le domaine de la construction.",
+      { "entities": [[35, 47, "TCONST"]] }
+    ],
+    [
+      "Je travaille dans le domaine minier.",
+      { "entities": [[29, 35, "TMINE"]] }
+    ],
+    ["J'ai de la toux.", { "entities": [[11, 15, "TOUX"]] }],
+    ["J'ai une toux aboyante.", { "entities": [[9, 22, "TOUX_ABOY"]] }],
+    [
+      "J'ai des quintes de toux intenses et dérangeantes.",
+      { "entities": [[20, 33, "TOUX_SEV"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Afrique du Nord.",
+      { "entities": [[52, 69, "TRAV1_@_AFRIQN"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Afrique de l'Ouest.",
+      { "entities": [[52, 72, "TRAV1_@_AFRIQO"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Afrique du Sud et du Sud-Est.",
+      { "entities": [[52, 82, "TRAV1_@_AFRIQSS"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Amérique centrale.",
+      { "entities": [[52, 71, "TRAV1_@_AMERC"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Amérique du Nord.",
+      { "entities": [[52, 70, "TRAV1_@_AMERN"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Amérique du Sud.",
+      { "entities": [[52, 69, "TRAV1_@_AMERS"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Asie.",
+      { "entities": [[52, 58, "TRAV1_@_ASIE"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Asie du Sud et du Sud-Est.",
+      { "entities": [[52, 79, "TRAV1_@_ASIESSE"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers les Caraïbes.",
+      { "entities": [[56, 64, "TRAV1_@_CARA"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Europe.",
+      { "entities": [[52, 60, "TRAV1_@_EURO"]] }
+    ],
+    [
+      "J'ai voyagé pendant les 4 semaines précédentes vers l'Amérique du Nord.",
+      { "entities": [[52, 70, "TRAV1_@_N"]] }
+    ],
+    [
+      "J'ai soudainement de la difficulté ou une incapacité à ouvrir la bouche ou même de la douleur au niveau de la mâchoire lors de l’ouverture de celle-ci.",
+      {
+        "entities": [
+          [42, 71, "TRISMUS"],
+          [86, 118, "TRISMUS"]
+        ]
+      }
+    ],
+    [
+      "J'ai des ulcères ou des lésions ulcérées et douloureuses dans la bouche.",
+      {
+        "entities": [
+          [9, 16, "ULCÈRES_BOUCHE"],
+          [24, 40, "ULCÈRES_BOUCHE"]
+        ]
+      }
+    ],
+    ["J'habite dans une grande ville.", { "entities": [[18, 30, "URBAN1"]] }],
+    [
+      "Mon IMC est plus petit que 18.5, soit un poids plus petit que la normale.",
+      {
+        "entities": [
+          [4, 31, "V85.0"],
+          [41, 72, "V85.0"]
+        ]
+      }
+    ],
+    ["Mes vaccins sont à jour.", { "entities": [[4, 23, "VACCINATION"]] }],
+    [
+      "J'ai récemment remarqué du sang dans mes vomissements ou quelque chose qui ressemble à des grains de café.",
+      { "entities": [[27, 53, "VO_SG"]] }
+    ],
+    [
+      "J'ai eu plusieurs vomissements ou fait plusieurs efforts pour vomir.",
+      {
+        "entities": [
+          [18, 30, "VO_VIOLENT"],
+          [39, 67, "VO_VIOLENT"]
+        ]
+      }
+    ],
+    [
+      "J'ai remarqué que mon ton de voix a changé, soit diminué, s’est éteint ou est devenu plus grave.",
+      { "entities": [[22, 42, "VOLUME_PAROLE"]] }
+    ],
+    [
+      "J'ai récemment pris, en vente libre, des décongestionnants ou d'autres substances pouvant avoir des effets stimulants.",
+      { "entities": [[41, 58, "WAKEUP"]] }
+    ],
+    [
+      "J'ai noté un son aigu lorsque je sors l'air de mes poumons.",
+      { "entities": [[13, 58, "WHEEZ"]] }
+    ],
+    [
+      "Mes symptômes sont pires après les repas.",
+      { "entities": [[4, 40, "WW_BOUFFE"]] }
+    ],
+    [
+      "J'ai une douleur qui est pire lors des mouvements.",
+      { "entities": [[9, 49, "WW_BOUGER"]] }
+    ],
+    [
+      "Mes symptômes sont pires en position couchée et améliorés en position assise.",
+      {
+        "entities": [
+          [4, 44, "WW_DD"],
+          [48, 76, "WW_DD"]
+        ]
+      }
+    ],
+    [
+      "Mes symptômes sont pires lors de l'effort physique et soulagés par le repos.",
+      {
+        "entities": [
+          [4, 50, "WW_EFFORT"],
+          [54, 75, "WW_EFFORT"]
+        ]
+      }
+    ],
+    [
+      "Je ressens davantage mes symptômes la nuit.",
+      { "entities": [[25, 42, "WW_NUIT"]] }
+    ],
+    [
+      "J'ai une douleur qui est pire à l'inspiration profonde.",
+      { "entities": [[9, 54, "WW_RESPI"]] }
+    ],
+    [
+      "Mes symptômes ou la douleur sont augmentés avec la toux, un effort comme lever un poids ou quand je force pour aller à la selle.",
+      { "entities": [[33, 55, "WW_VALSALVA"]] }
+    ],
+    [
+      "Je suis en contact régulièrement avec de la fumée de cigarette sans être moi-même fumeur.",
+      { "entities": [[11, 62, "Z77.22"]] }
+    ],
+    [
+      "J'ai des membres de ma famille proche qui sont atteints du cancer du pancréas.",
+      { "entities": [[59, 77, "Z80.0"]] }
+    ],
+    [
+      "J'ai des membres de ma famille ayant eu le cancer des poumons.",
+      { "entities": [[43, 61, "Z80.1"]] }
+    ],
+    [
+      "J'ai des membres de ma famille proche qui ont eu un problème de maladie cardiovasculaire avant l’âge de 50 ans.",
+      { "entities": [[64, 110, "Z82.49"]] }
+    ],
+    [
+      "Je suis susceptible de développer plus facilement que la population générale des allergies courantes.",
+      { "entities": [[23, 100, "Z84.89"]] }
+    ],
+    ["Je suis immunosupprimé.", { "entities": [[8, 22, "Z92.25"]] }],
+    ["", { "entities": [] }]
+  ]
+}
