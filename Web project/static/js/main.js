@@ -19,8 +19,8 @@ recommender.addEventListener('message', (event) => {
     newParagraph.className = "answer";
     if(event.data){
         newParagraph.innerHTML = event.data;
-        newParagraph.style.width = `${event.data.length}ch`;
-        newParagraph.style.WebkitAnimation = `typing 1s steps(${event.data.length}, end), blink-caret .3s steps(${event.data.length}, end) alternate`;
+        newParagraph.style.width = `${150}ch`;
+        newParagraph.style.WebkitAnimation = `typing 1s steps(${150})`;
     }
     newAnswerContainer.appendChild(newParagraph);
 

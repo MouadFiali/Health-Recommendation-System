@@ -2,7 +2,6 @@ self.addEventListener('message', (event) => {
     console.log("received: event", event);
     const getAnswer = (prompt) => {
         event.preventDefault();
-        var response = "reponse";
         var dateTime = new Date();
         // var time = dateTime.toLocaleTimeString();
         // Add the prompt to the response div
@@ -21,16 +20,17 @@ self.addEventListener('message', (event) => {
             // $('#response').append('<p id="GFG2">('+ time + ') <i class="bi bi-robot"></i>: ' + data.response + '</p>');
             // $('#response #GFG2').css({"color": "red", "width": "90%", "float": "right"});
             console.log(data.response);
-            response = data.response;
+            let answer = data.response;
+             // replace '\n' with '<br>' to display in html
+            answer = answer.replace(/\n/g, '<br>');
+            self.postMessage(answer);
         })
         .catch(error => {
             
         });
-        return response;
     }  
     const { data } = event;
     console.log("received: data", data);
 
-    const answer = getAnswer(data);
-    self.postMessage(answer);
+    getAnswer(data);
 });

@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(52,53,65,1);
+    background-color: #F5F0BB;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,9 +9,24 @@ body {
 .response {
     width: 100%;
 }
-.bottom {
+
+.bottom-div{
     position: fixed;
     bottom: 0;
+    width: 100%;
+    background-color: #F5F0BB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    padding-top: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.30);
+}
+
+.bottom {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,6 +35,8 @@ body {
     justify-content: space-between;
     width: 80%;
 }
+
+
 .footer {
     margin-top: 7rem;
 }
@@ -28,17 +45,21 @@ body {
     display: flex;
     margin-top: auto;
     flex-grow: 1;
-    border-radius: 5px;
-    background-color: rgba(64,65,79,1);
+    border-radius: 10px;
+    background-color: #B3C890;
     height: 1rem;
     align-items: center;
     justify-content: center;
     padding: 1rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.30);
+    max-height: 200px; 
+    height: 50px;
+    overflow-y: hidden;
 }
 
 .userQuestion {
     width: 95%;
-    color: #d1d5db;
+    color: #000000;
 
 }
 .sendButton {
@@ -46,14 +67,14 @@ body {
 }
 
 .queryContainer, .answerContainer{
-    background: rgba(68,70,84,1);
+    background: #B3C890;
     padding: 1rem;
     padding-left: 10%;
     padding-right: 10%;
 }
 
 .disclaimer {
-    color: hsla(0,0%,100%,.5);
+    color: hsla(0, 0%, 0%, 0.5);
     padding-bottom: 1.5rem;
     padding-top: 0.75rem;
     font-size: .75rem;
@@ -61,15 +82,15 @@ body {
     text-align: center;
 }
 .disclaimer a:visited {
-    color: hsla(0,0%,100%,.5);
+    color: hsla(0, 0%, 0%, 0.5);
 }
 
 .queryContainer {
-    background-color: rgba(52,53,65,1);
+    background-color: #DBDFAA;
 }
 .query {
     display: block;
-    color: #d1d5db;
+    color: #000000;
     font: normal 300% Consolas, Monaco, monospace;
     font-size: smaller;
     margin: 1em;
@@ -78,11 +99,10 @@ body {
 .answer { 
     font: normal 300% Consolas, Monaco, monospace;
     font-size: smaller;
-    border-right: 0.75em solid #d1d5db;
     margin: 1em;
     white-space: nowrap;
     overflow: hidden;
-    color: #d1d5db;
+    color: #000000;
 }
 
 .userQuestion {
@@ -93,7 +113,6 @@ body {
     outline: none;
 }
 @-webkit-keyframes typing { from { width: 0; } }
-@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
 
 
 @keyframes load{
@@ -110,7 +129,7 @@ body {
 
 .sendButton {
     rotate: 90deg;
-    color: rgba(172,172,190,1);
+    color: #657f3c;
     cursor: pointer;
 }
 
