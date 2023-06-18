@@ -1,0 +1,517 @@
+evidence,question_code,type,question_fr,question_en,evidence_rep,meaning_fr,meaning_en
+B34.9,B34.9,B,Avez-vous été infecté par un virus récemment?,Have you recently had a viral infection?,B34.9,,
+H6690,H6690,B,Êtes-vous actuellement traité ou avez-vous été récemment traité avec un antibiotique pris par la bouche pour une infection de l’oreille ou une otite?,Are you currently being treated or have you recently been treated with an oral antibiotic for an ear infection?,H6690,,
+HIV,HIV,B,Êtes-vous infecté par le virus de l’immunodéficience humaine ou êtes-vous séropositif?,Are you infected with the human immunodeficiency virus (HIV)?,HIV,,
+I30,I30,B,Avez-vous déjà eu une péricardite?,Have you ever had a pericarditis?,I30,,
+J05.0,J05.0,B,Est-ce que vous ou un membre de votre famille a déjà eu le croup?,Have you or any member of your family ever had croup?,J05.0,,
+J81,J81,B,Avez-vous déjà fait de l’eau sur les poumons?,Have you ever had fluid in your lungs?,J81,,
+K86.1,K86.1,B,Souffrez-vous de pancréatite chronique?,Do you have chronic pancreatitis?,K86.1,,
+Mauv_aliment,Mauv_aliment,B,Avez-vous une mauvaise alimentation?,Do you have a poor diet?,Mauv_aliment,,
+Z99.2,Z99.2,B,Êtes-vous dialysé?,Do you currently undergo dialysis?,Z99.2,,
+adp_dlr,adp_dlr,B,Avez-vous des ganglions enflés ou douloureux?,Do you have swollen or painful lymph nodes?,adp_dlr,,
+ains,ains,B,Prenez-vous ou avez-vous pris des anti-inflammatoires récemment?,Are you currently taking or have you recently taken anti-inflammatory drugs (NSAIDs)?,ains,,
+allait_prol,allait_prol,B,Avez-vous allaité plus de 9 mois un de vos enfants?,Have you breastfed one of your children for more than 9 months?,allait_prol,,
+allergie_sev,allergie_sev,B,Avez-vous un allergie alimentaire connue et sévère?,Do you have a known severe food allergy?,allergie_sev,,
+angor_accelere,angor_accelere,B,Trouvez-vous que vos symptômes sont pires depuis environ 2 semaines et que de moins en moins d’effort provoquent les symptômes?,Do you find that your symptoms have worsened over the last 2 weeks and that progressively less effort is required to cause the symptoms?,angor_accelere,,
+angor_repos,angor_repos,B,Avez-vous des douleurs au thorax même au repos?,Do you have chest pain even at rest?,angor_repos,,
+antipsy_récent,antipsy_récent,B,Avez-vous pris ou commencer un antipsychotique dans les derniers 7 jours?,Have you started or taken any antipsychotic medication within the last 7 days?,antipsy_récent,,
+anxiete_s,anxiete_s,B,"Ressentez-vous une certaine anxiété, une fébrilité?",Do you feel anxious?,anxiete_s,,
+ap_asian,ap_asian,B,Avez-vous des origines asiatiques?,Are you of Asian descent?,ap_asian,,
+ap_fk,ap_fk,B,Êtes-vous atteint par la fibrose kystique?,Do you have cystic fibrosis?,ap_fk,,
+ap_hypert4,ap_hypert4,B,Êtes-vous connu pour de l’hyperthyroïdie?,Have you been diagnosed with hyperthyroidism?,ap_hypert4,,
+ap_par,ap_par,B,Souffrez-vous d’arthrite rhumatoïde?,Do you have Rheumatoid Arthritis?,ap_par,,
+ap_pneumothorax,ap_pneumothorax,B,Avez vous déjà fait un pneumothorax spontané?,Have you ever had a spontaneous pneumothorax?,ap_pneumothorax,,
+ap_valve,ap_valve,B,Êtes-vous connu pour un problème au niveau d’une valve cardiaque?,Do you have a known issue with one of your heart valves?,ap_valve,,
+apnee,apnee,B,Faites-vous des pauses respiratoires durant votre sommeil?,Do you ever temporarily stop breathing while you’re asleep?,apnee,,
+atcd_anem,atcd_anem,B,Avez-vous déjà eu un diagnostic d’anémie?,Have you ever had a diagnosis of anemia?,atcd_anem,,
+atcd_cluster,atcd_cluster,B,Avez-vous des membres de votre famille qui ont déjà été diagnostiqué avec des céphalée en grappes?,Have any of your family members been diagnosed with cluster headaches?,atcd_cluster,,
+atcd_fam_anem,atcd_fam_anem,B,Avez-vous des membres de votre famille qui ont déjà eu un diagnostic d’anémie?,Do you have any family members who have been diagnosed with anemia?,atcd_fam_anem,,
+atcd_its,atcd_its,B,Avez-vous déjà eu une infection transmise sexuellement?,Have you ever had a sexually transmitted infection?,atcd_its,,
+atcdfam_mg,atcdfam_mg,B,Avez-vous des membres de votre famille qui ont la myasthénie grave?,Are there any members of your family who have been diagnosed myasthenia gravis?,atcdfam_mg,,
+atcdpsyfam,atcdpsyfam,B,Avez-vous des membres de votre famille proche qui ont eu une maladie psychiatrique?,Do any members of your immediate family have a psychiatric illness?,atcdpsyfam,,
+ballon_abdo,ballon_abdo,B,Ressentez-vous un ballonnement abdominal ou un gonflement de votre ventre?,Do you feel your abdomen is bloated or distended (swollen due to pressure from inside)?,ballon_abdo,,
+bode,bode,B,Êtes-vous considéré comme une personne ayant une maladie pulmonaire obstructive chronique sévère?,Do you have severe Chronic Obstructive Pulmonary Disease (COPD)?,bode,,
+boire_ped,boire_ped,B,Avez-vous une diminution de l’appétit ou des boires?,Do you have a decrease in appetite?,boire_ped,,
+bw_bending,bw_bending,B,Avez-vous une douleur qui s’améliore lorsque vous penchez votre corps vers l’avant?,Do you have pain that improves when you lean forward?,bw_bending,,
+c00-d48,c00-d48,B,Avez-vous un cancer actif?,Do you have an active cancer?,c00-d48,,
+cafe,cafe,B,Buvez-vous régulièrement du café ou du thé?,Do you regularly drink coffee or tea?,cafe,,
+cancer_méta,cancer méta,B,Avez-vous un cancer métastatique?,Do you have metastatic cancer?,cancer_méta,,
+claud_mâchoire,claud_mâchoire,B,Avez-vous des douleurs ou une faiblesse au niveau de la mâchoire?,Do you have pain or weakness in your jaw?,claud_mâchoire,,
+confusion,confusion,B,Vous sentez-vous confus ou mélangé?,Have you felt confused or disorientated lately?,confusion,,
+cont_coq,cont_coq,B,Avez-vous été en contact avec quelqu’un qui a eu la coqueluche?,Have you been in contact with someone who has had pertussis (whoooping cough)?,cont_coq,,
+contact,contact,B,"Avez-vous été en contact avec une autre personne qui présentait des symptômes similaires, dans les 2 dernières semaines?",Have you been in contact with a person with similar symptoms in the past 2 weeks?,contact,,
+contact_allergie,contact_allergie,B,Avez-vous été en contact ou mangé une chose à laquelle vous avez une allergie?,Have you been in contact with or ate something that you have an allergy to?,contact_allergie,,
+convulsion,convulsion,B,Avez-vous eu une épisode de perte de conscience avec des contractions violentes et soutenues d’un ou de plusieurs muscles de votre corps ou une période d'absence?,Have you lost consciousness associated with violent and sustained muscle contractions or had an absence episode?,convulsion,,
+cortico,cortico,B,Prenez-vous des corticostéroïdes?,Do you take corticosteroids?,cortico,,
+crach_sg,crach_sg,B,Avez-vous visualisé du sang dans vos crachats?,Have you been coughing up blood?,crach_sg,,
+criseasthm,criseasthm,B,Avez-vous fait 2 crises d’asthme ou plus dans la dernière année?,Have you had 2 or more asthma attacks in the past year?,criseasthm,,
+crohn_cu,crohn_cu,B,Souffrez-vous de la maladie de Crohn ou de la colite ulcéreuse?,Do you suffer from Crohn’s disease or ulcerative colitis (UC)?,crohn_cu,,
+crowd,crowd,B,Habitez-vous avec 4 personnes ou plus?,Do you live with 4 or more people?,crowd,,
+dayc,dayc,B,Fréquentez-vous ou travaillez-vous dans une garderie?,Do you attend or work in a daycare?,dayc,,
+diaph,diaph,B,Avez-vous eu des sueurs importantes?,Have you had significantly increased sweating?,diaph,,
+diarrhee,diarrhee,B,Avez-vous eu des diarrhées ou une augmentation de la fréquence de vos selles?,Have you had diarrhea or an increase in stool frequency?,diarrhee,,
+diplopie,diplopie,B,Avez-vous l’impression de voir double ou de voir simultanément 2 images semblables?,Do you have the perception of seeing two images of a single object seen overlapping or adjacent to each other (double vision)?,diplopie,,
+douleurxx,douleurxx,B,Avez-vous de la douleur à quelque part en lien avec votre raison de consultation?,"Do you have pain somewhere, related to your reason for consulting?",douleurxx,,
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_NA,NA,NA
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_déchirante,déchirante,heartbreaking
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_lancinante_/_choc_électrique,lancinante,haunting
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_pénible,pénible,tedious
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_sensible,sensible,sensitive
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_un_coup_de_couteau,un coup de couteau,a knife stroke
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_un_tiraillement,un tiraillement,tugging
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_une_brûlure_ou_chaleur,une brûlure,burning
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_une_crampe,une crampe,a cramp
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_une_lourdeur_ou_serrement,une lourdeur,heavy
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_une_pulsation,une pulsation,a pulse
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_violente,violente,violent
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_vive,vive,sharp
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_écoeurante,écoeurante,sickening
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_épeurante,épeurante,scary
+douleurxx_carac,douleurxx,M,Caractérisez votre douleur:,Characterize your pain:,douleurxx_carac_@_épuisante,épuisante,exhausting
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_aisselle_D_,aisselle(D),axilla(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_amygdale_D_,amygdale(D),tonsil(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_amygdale_G_,amygdale(G),tonsil(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_arrière_de_la_cheville_D_,arrière de la cheville(D),posterior aspect of the ankle(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_arrière_de_la_cheville_G_,arrière de la cheville(G),posterior aspect of the ankle(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_arrière_de_tête,arrière de tête,back of head
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_arrière_du_cou,arrière du cou,back of the neck
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_bas_du_thorax,bas du thorax,lower chest
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_biceps_D_,biceps(D),biceps(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_biceps_G_,biceps(G),biceps(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_bouche,bouche,mouth
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_cartilage_thyroidien,cartilage thyroidien,thyroid cartilage
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_cheville_D_,cheville(D),ankle(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_cheville_G_,cheville(G),ankle(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_colonne_cervicale,colonne cervicale,cervical spine
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_colonne_dorsale,colonne dorsale,thoracic spine
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_coté_lateral_du_pied_D_,coté lateral du pied(D),lateral side of the foot(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_coté_lateral_du_pied_G_,coté lateral du pied(G),lateral side of the foot(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_coude_D_,coude(D),elbow(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_coude_G_,coude(G),elbow(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_creux_poplité_D_,creux poplité(D),popliteal fossa(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_creux_poplité_G_,creux poplité(G),popliteal fossa(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_cuisse_D_,cuisse(D),thigh(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_cuisse_G_,cuisse(G),thigh(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_côté_du_cou_D_,côté du cou(D),side of the neck(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_côté_du_cou_G_,côté du cou(G),side of the neck(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_côté_du_thorax_D_,côté du thorax(D),side of the chest(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_côté_du_thorax_G_,côté du thorax(G),side of the chest(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_dessus_de_tête,dessus de tête,top of the head
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_annulaire__D_,doigt(annulaire)(D),finger (ring finger)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_annulaire__G_,doigt(annulaire)(G),finger (ring finger)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_auriculaire__D_,doigt(auriculaire)(D),finger (little finger)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_auriculaire__G_,doigt(auriculaire)(G),finger (little finger)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_index__D_,doigt(index)(D),finger (index)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_index__G_,doigt(index)(G),finger (index)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_majeur__D_,doigt(majeur)(D),finger (middle)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_doigt_majeur__G_,doigt(majeur)(G),finger (middle)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_face_dorsale_du_pied_D_,face dorsale du pied(D),dorsal aspect of the foot(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_face_dorsale_du_pied_G_,face dorsale du pied(G),dorsal aspect of the foot(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_face_dorsale_du_poignet_D_,face dorsale du poignet(D),dorsal aspect of the wrist(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_face_dorsale_du_poignet_G_,face dorsale du poignet(G),dorsal aspect of the wrist(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_face_palmaire_du_poignet_D_,face palmaire du poignet(D),palmar face of the wrist(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_face_palmaire_du_poignet_G_,face palmaire du poignet(G),palmar face of the wrist(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_flanc_D_,flanc(D),flank(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_flanc_G_,flanc(G),flank(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_fosse_iliaque_D_,fosse iliaque(D),iliac fossa(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_fosse_iliaque_G_,fosse iliaque(G),iliac fossa(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_front,front,forehead
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_genou_D_,genou(D),knee(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_genou_G_,genou(G),knee(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_hanche_D_,hanche(D),hip(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_hanche_G_,hanche(G),hip(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_haut_du_thorax,haut du thorax,upper chest
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_hypochondre_D_,hypochondre(D),hypochondrium(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_hypochondre_G_,hypochondre(G),hypochondrium(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_ischio_D_,ischio(D),ischio jambier(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_ischio_G_,ischio(G),ischio jambier(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_joue_D_,joue(D),cheek(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_joue_G_,joue(G),cheek(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_mollet_D_,mollet(D),calf(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_mollet_G_,mollet(G),calf(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_nez,nez,nose
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_nulle_part,nulle part,nowhere
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_occiput,occiput,occiput
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_oeil_D_,oeil(D),eye(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_oeil_G_,oeil(G),eye(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_omoplate_D_,omoplate(D),scapula(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_omoplate_G_,omoplate(G),scapula(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_oreille_D_,oreille(D),ear(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_oreille_G_,oreille(G),ear(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_orteil__1__D_,orteil (1)(D),toe (1)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_orteil__1__G_,orteil (1)(G),toe (1)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_orteil__2__D_,orteil (2)(D),toe (2)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_orteil__2__G_,orteil (2)(G),toe (2)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_orteil__3__D_,orteil (3)(D),toe (3)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_orteil__3__G_,orteil (3)(G),toe (3)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_palais,palais,palace
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_petit_orteil__4__D_,petit orteil (4)(D),little toe (4)(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_petit_orteil__4__G_,petit orteil (4)(G),little toe (4)(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_pharynx,pharynx,pharynx
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_plante_du_pied_D_,plante du pied(D),sole(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_plante_du_pied_G_,plante du pied(G),sole(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_pouce_D_,pouce(D),thumb(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_pouce_G_,pouce(G),thumb(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_pubis,pubis,pubis
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_sein_D_,sein(D),breast(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_sein_G_,sein(G),breast(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_sous_la_machoire,sous la machoire,under the jaw
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_talon_D_,talon(D),heel(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_tempe_D_,tempe(D),temple(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_tempe_G_,tempe(G),temple(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_testicule_D_,testicule(D),testicle(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_testicule_G_,testicule(G),testicle(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_thorax_postérieur_D_,thorax postérieur(D),posterior chest wall(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_thorax_postérieur_G_,thorax postérieur(G),posterior chest wall(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_tibia_D_,tibia(D),tibia(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_tibia_G_,tibia(G),tibia(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_trachée,trachée,trachea
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_triceps_D_,triceps(D),triceps(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_triceps_G_,triceps(G),triceps(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_ventre,ventre,belly
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_épaule_D_,épaule(D),shoulder(R)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_épaule_G_,épaule(G),shoulder(L)
+douleurxx_endroitducorps,douleurxx,M,Avez-vous de la douleur quelque part?,Do you feel pain somewhere?,douleurxx_endroitducorps_@_épigastre,épigastre,epigastric
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_0,0,0
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_1,1,1
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_10,10,10
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_2,2,2
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_3,3,3
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_4,4,4
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_5,5,5
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_6,6,6
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_7,7,7
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_8,8,8
+douleurxx_intens,douleurxx,C,Quelle est l’intensité de la douleur?,How intense is the pain?,douleurxx_intens_@_9,9,9
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_arrière_de_tête,arrière de tête,back of head
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_bas_du_thorax,bas du thorax,lower chest
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_biceps_D_,biceps(D),biceps(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_biceps_G_,biceps(G),biceps(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_cartilage_thyroidien,cartilage thyroidien,thyroid cartilage
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_colonne_dorsale,colonne dorsale,thoracic spine
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_côté_du_thorax_D_,côté du thorax(D),side of the chest(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_côté_du_thorax_G_,côté du thorax(G),side of the chest(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_front,front,forehead
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_haut_du_thorax,haut du thorax,upper chest
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_menton,menton,chin
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_mâchoire,mâchoire,jaw
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_nez,nez,nose
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_nulle_part,nulle part,nowhere
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_omoplate_D_,omoplate(D),scapula(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_omoplate_G_,omoplate(G),scapula(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_sein_D_,sein(D),breast(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_sein_G_,sein(G),breast(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_sous_la_machoire,sous la machoire,under the jaw
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_tempe_D_,tempe(D),temple(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_tempe_G_,tempe(G),temple(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_thorax_postérieur_D_,thorax postérieur(D),posterior chest wall(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_thorax_postérieur_G_,thorax postérieur(G),posterior chest wall(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_trachée,trachée,trachea
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_triceps_D_,triceps(D),triceps(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_triceps_G_,triceps(G),triceps(L)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_épaule_D_,épaule(D),shoulder(R)
+douleurxx_irrad,douleurxx,M,Est-ce que la douleur se propage vers un autre endroit?,Does the pain radiate to another location?,douleurxx_irrad_@_épaule_G_,épaule(G),shoulder(L)
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_0,0,0
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_1,1,1
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_10,10,10
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_2,2,2
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_3,3,3
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_4,4,4
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_5,5,5
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_6,6,6
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_7,7,7
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_8,8,8
+douleurxx_precis,douleurxx,C,À quel point la douleur est-elle précisément localisée?,How precisely is the pain located?,douleurxx_precis_@_9,9,9
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_0,0,0
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_1,1,1
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_10,10,10
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_2,2,2
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_3,3,3
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_4,4,4
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_5,5,5
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_6,6,6
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_7,7,7
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_8,8,8
+douleurxx_soudain,douleurxx,C,À quelle vitesse la douleur est-elle apparue ?,How fast did the pain appear?,douleurxx_soudain_@_9,9,9
+drink_energie,drink_energie,B,Prenez-vous des boissons énergisantes régulièrement?,Do you consume energy drinks regularly?,drink_energie,,
+drogues_IV,drogues_IV,B,Faites-vous actuellement usage de drogues intraveineuses?,Are you currently using intravenous drugs?,drogues_IV,,
+drogues_stimul,drogues_stimul,B,Prenez-vous régulièrement des substances illicites stimulantes?,Do you regularly take stimulant drugs?,drogues_stimul,,
+dysarthrie,dysarthrie,B,Avez-vous de la difficulté à articuler les mots?,Do you have difficulty articulating words/speaking?,dysarthrie,,
+dysp_effort,dysp_effort,B,Vous sentez-vous facilement essoufflé à l’effort?,Do you feel out of breath with minimal physical effort?,dysp_effort,,
+dysphagie,dysphagie,B,Avez-vous des de la difficulté à avaler ou une sensation de gêne ou de blocage lors de la déglutition?,"Do you have difficulty swallowing, or have a feeling of discomfort/blockage when swallowing?",dysphagie,,
+dyspn,dyspn,B,Vous sentez-vous essoufflé ou avez vous de la difficulté à respirer de façon importante?,Are you experiencing shortness of breath or difficulty breathing in a significant way?,dyspn,,
+dyspn_noct,dyspn_noct,B,Avez-vous des crises de suffocation qui vous réveille la nuit?,Do you have bouts of choking or shortness of breath that wake you up at night?,dyspn_noct,,
+e10_e11,"e10, e11",B,Souffrez-vous de diabète?,Do you have diabetes?,e10_e11,,
+e66,e66,B,Avez-vous un surpoids important par rapport aux personnes de la même taille que vous?,Are you significantly overweight compared to people of the same height as you?,e66,,
+e78.5,e78.5,B,Souffrez-vous d’hypercholestérolémie ou prenez-vous des médicaments pour traiter un taux de cholestérol élevé?,Do you have high cholesterol or do you take medications to treat high cholesterol?,e78.5,,
+eampoc1,eampoc1,B,Avez-vous eu une ou des épisodes d’aggravation ou de détérioration de votre maladie pulmonaire obstructive chronique dans la dernière année?,Have you had one or several flare ups of chronic obstructive pulmonary disease (COPD) in the past year?,eampoc1,,
+ebolacase,ebolacase,B,Avez-vous été en contact avec une personne infectée par le virus Ebola dans le dernier mois?,"In the last month, have you been in contact with anyone infected with the Ebola virus?",ebolacase,,
+erytheme_occ,erytheme_occ,B,Avez-vous remarqué une rougeur diffuse à un oeil ou aux 2 yeux?,Have you noticed a diffuse (widespread) redness in one or both eyes?,erytheme_occ,,
+etouff,etouff,B,Avez-vous l’impression que vous étouffez ou avez-vous eu l’impression que vous étouffiez?,Do you feel like you are (or were) choking or suffocating?,etouff,,
+etourdissement,etourdissement,B,Avez-vous l’impression de vous sentir légèrement étourdi ou d’avoir une impression de déséquilibre léger?,Do you feel slightly dizzy or lightheaded?,etourdissement,,
+expecto,expecto,B,Avez-vous une toux produisant des crachats colorés ou plus abondants qu’habituellement?,Do you have a cough that produces colored or more abundant sputum than usual?,expecto,,
+f10.129,f10.129,B,Prenez-vous de l’alcool de façon excessive ou avez-vous une dépendance à l’alcool?,Do you drink alcohol excessively or do you have an addiction to alcohol?,f10.129,,
+f17.210,f17.210,B,Fumez-vous la cigarette quotidiennement?,Do you smoke cigarettes?,f17.210,,
+f32,f32,B,Avez-vous déjà fait une dépression diagnostiqué par un médecin?,Have you ever been diagnosed with depression?,f32,,
+f41.9,f41.9,B,Souffrez-vous d’anxiété chronique?,Do you suffer from chronic anxiety?,f41.9,,
+faible,faible,B,Vous sentez-vous faible et étourdi ou avez vous l’impression que vous allez perdre conscience?,Do you feel lightheaded and dizzy or do you feel like you are about to faint?,faible,,
+faiblesse faciale,faiblesse faciale,B,Avez-vous noté une faiblesse au niveau des muscles du visage et/ou des yeux?,Have you noticed weakness in your facial muscles and/or eyes?,faiblesse faciale,,
+faiblesse_msmi,faiblesse_msmi,B,Avez-vous présentement une faiblesse des 2 bras et/ou des 2 jambes?,Do you feel weakness in both arms and/or both legs?,faiblesse_msmi,,
+fam_atopie,fam_atopie,B,"Avez-vous des membres de votre famille proche qui souffre d’allergies (tout type), de rhume des foins ou d'eczéma?","Do you have any close family members who suffer from allergies (any type), hay fever or eczema?",fam_atopie,,
+fam_j45,fam j45,B,Avez-vous des membres de votre famille qui font de l’asthme?,Do you have any family members who have asthma?,fam_j45,,
+fatig_ext,fatig_ext,B,Vous sentez-vous incapable de faire vos activités ou êtes-vous cloué au lit toute la journée?,Do you feel so tired that you are unable to do your usual activities or are you stuck in your bed all day long?,fatig_ext,,
+fatig_mod,fatig_mod,B,Ressentez-vous une fatigue constante ou avez-vous un sommeil non réparateur?,Do you constantly feel fatigued or do you have non-restful sleep?,fatig_mod,,
+fatigabilité_msk,fatigabilité_msk,B,Est-ce que vos symptômes de faiblesse musculaire augmente avec la fatigue et/ou le stress?,Do your symptoms of muscle weakness increase with fatigue and/or stress?,fatigabilité_msk,,
+fievre,fievre,B,Avez-vous objectivé ou ressenti de la fièvre?,Do you have a fever (either felt or measured with a thermometer)?,fievre,,
+flushing,flushing,B,Est-ce que vos joues sont devenues rouges soudainement?,Did your cheeks suddenly turn red?,flushing,,
+footnumb,footnumb,B,"Avez-vous des engourdissements, une perte de sensibilité ou des fourmillements dans les pieds?","Do you have numbness, loss of sensation or tingling in the feet?",footnumb,,
+friss,friss,B,Avez-vous eu des frissons?,Have you had chills or shivers?,friss,,
+g20,g20,B,Souffrez-vous de la maladie de parkinson?,Do you have Parkinson’s disease?,g20,,
+gain_poids,gain_poids,B,Avez-vous pris du poids récemment?,Have you gained weight recently?,gain_poids,,
+gorge_dlr,gorge_dlr,B,Avez-vous mal à la gorge?,Do you have a sore throat?,gorge_dlr,,
+hernie_hiatale,hernie_hiatale,B,Avez-vous une hernie hiatale?,Do you have a hiatal hernia?,hernie_hiatale,,
+histfammigraine,histfammigraine,B,Avez-vous déjà fait une migraine ou est-ce qu’un membre de votre famille est connu pour faire des migraines?,Have you ever had a migraine or is a member of your family known to have migraines?,histfammigraine,,
+horm1,horm1,B,Prenez-vous des hormones?,Do you currently take hormones?,horm1,,
+hosptisasm,hosptisasm,B,Avez-vous été hospitalisé pour une crise d’asthme dans la dernière année?,Have you been hospitalized for an asthma attack in the past year?,hosptisasm,,
+hta,hta,B,Consultez-vous ou avez-vous été référé car votre tension artérielle est élevée?,Are you consulting because you have high blood pressure?,hta,,
+hyponos,hyponos,B,Avez-vous une perte d’odorat accompagnant vos symptômes?,Have you lost your sense of smell?,hyponos,,
+i10,i10,B,Souffrez-vous d’hypertension ou prenez-vous des médicaments pour traiter la haute pression?,Do you have high blood pressure or do you take medications to treat high blood pressure?,i10,,
+i25.1,i25.1,B,Avez-vous déjà fait une crise de coeur ou faites-vous de l’angine?,Have you ever had a heart attack or do you have angina (chest pain)?,i25.1,,
+i50,i50,B,Êtes-vous atteint d’insuffisance cardiaque?,Do you have heart failure?,i50,,
+i60-i69,i60-i69,B,Avez-vous déjà fait un accident vasculaire cérébral ou AVC?,Have you ever had a stroke?,i60-i69,,
+i73.9,i73.9,B,Avez-vous un problème de mauvaise circulation sanguine?,Do you have a problem with poor circulation?,i73.9,,
+i80,i80,B,Avez-vous déjà fait une thrombophlébite profonde?,Have you ever had deep vein thrombosis (DVT)?,i80,,
+immob1,immob1,B,Avez-vous été incapable de vous mobiliser ou vous lever plus de 3 jours consécutifs dans le dernier mois?,Have you been unable to move or get up for more than 3 consecutive days within the last 4 weeks?,immob1,,
+impression_mort,impression_mort,B,Avez-vous l’impression que vous pourriez mourir ou que vous alliez mourir?,Do you feel like you are dying or were you afraid that you were about do die?,impression_mort,,
+insp_siffla,insp_siffla,B,Avez-vous une inspiration sifflante après vos quintes de toux?,Do you wheeze while inhaling or is your breathing noisy after coughing spells?,insp_siffla,,
+irc,irc,B,Souffrez-vous d’insuffisance rénale chronique?,Do you have chronic kidney failure?,irc,,
+irritable,irritable,B,Êtes-vous plus irritable dernièrement ou avez-vous une humeur très changeante?,Are you more irritable or has your mood been very unstable recently?,irritable,,
+itss_risque,itss_risque,B,Avez-vous eu des relations sexuelles non-protégées avec plus d’un partenaire dans les derniers 6 mois?,Have you had unprotected sex with more than one partner in the last 6 months?,itss_risque,,
+j06.9,j06.9,B,"Avez-vous eu un rhume, au cours des 2 dernières semaines?",Have you had a cold in the last 2 weeks?,j06.9,,
+j17_j18,"j17, j18",B,Avez-vous déjà fait une pneumonie?,Have you ever had pneumonia?,j17_j18,,
+j32,j32,B,Avez-vous un diagnostic de sinusite chronique fait par un médecin?,Have you been diagnosed with chronic sinusitis?,j32,,
+j33,j33,B,Avez-vous des polypes dans le nez?,Do you have polyps in your nose?,j33,,
+j34.2,j34.2,B,Êtes-vous connu pour avoir une déviation du septum ou cloison nasal?,Do you have a deviated nasal septum?,j34.2,,
+j44_j42,"j44, j42",B,Souffrez-vous de maladie pulmonaire obstructive chronique?,Do you have a chronic obstructive pulmonary disease (COPD)?,j44_j42,,
+j45,j45,B,Souffrez-vous d’asthme ou avez vous déjà eu une prescription de bronchodilatateurs dans le passé?,Do you have asthma or have you ever had to use a bronchodilator in the past?,j45,,
+k21,k21,B,Avez-vous déjà reçu un diagnostic de reflux gastro-oesophagien?,Have you ever been diagnosed with gastroesophageal reflux?,k21,,
+k74,k74,B,Souffrez-vous de cirrhose hépatique?,Do you have liver cirrhosis?,k74,,
+larmes,larmes,B,Avez-vous l’impression que votre oeil produit des larmes de façon excessive?,Do you feel that your eyes produce excessive tears?,larmes,,
+laryngospasme,laryngospasme,B,Avez-vous eu l’impression que vous étouffiez pendant un court instant et que vous étiez incapable de respirer ou parler?,Have you ever felt like you were suffocating for a very short time associated with inability to breathe or speak?,laryngospasme,,
+lesions_peau,lesions_peau,B,"Avez vous des lésions, rougeurs ou problèmes au niveau de votre peau que vous croyez être reliés à la condition pour laquelle vous consultez?","Do you have any lesions, redness or problems on your skin that you believe are related to the condition you are consulting for?",lesions_peau,,
+lesions_peau_couleur,lesions_peau,C,De quelle couleur sont les lésions?,What color is the rash?,lesions_peau_couleur_@_NA,NA,NA
+lesions_peau_couleur,lesions_peau,C,De quelle couleur sont les lésions?,What color is the rash?,lesions_peau_couleur_@_jaune,jaune,jaune
+lesions_peau_couleur,lesions_peau,C,De quelle couleur sont les lésions?,What color is the rash?,lesions_peau_couleur_@_pale,pale,pale
+lesions_peau_couleur,lesions_peau,C,De quelle couleur sont les lésions?,What color is the rash?,lesions_peau_couleur_@_rose,rose,rose
+lesions_peau_couleur,lesions_peau,C,De quelle couleur sont les lésions?,What color is the rash?,lesions_peau_couleur_@_rouge,rouge,rouge
+lesions_peau_desquame,lesions_peau,C,Est-ce que vos lésions pèlent (morceaux de peau qui se détachent)?,Do your lesions peel off?,lesions_peau_desquame_@_N,N,N
+lesions_peau_desquame,lesions_peau,C,Est-ce que vos lésions pèlent (morceaux de peau qui se détachent)?,Do your lesions peel off?,lesions_peau_desquame_@_O,O,O
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_0,0,0
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_1,1,1
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_2,2,2
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_3,3,3
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_4,4,4
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_5,5,5
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_6,6,6
+lesions_peau_elevee,lesions_peau,C,La ou les lésions sont-elles surélevées?,Is the rash swollen?,lesions_peau_elevee_@_7,7,7
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_arrière_du_cou,arrière du cou,back of the neck
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_avant-bras_D_,avant-bras(D),forearm(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_avant-bras_G_,avant-bras(G),forearm(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_biceps_D_,biceps(D),biceps(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_biceps_G_,biceps(G),biceps(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_bouche,bouche,mouth
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_cartilage_thyroidien,cartilage thyroidien,thyroid cartilage
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_cheville_D_,cheville(D),ankle(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_cheville_G_,cheville(G),ankle(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_colonne_cervicale,colonne cervicale,cervical spine
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_colonne_dorsale,colonne dorsale,thoracic spine
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_colonne_lombaire,colonne lombaire,lumbar spine
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_commissure_D_,commissure(D),commissure(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_commissure_G_,commissure(G),commissure(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_cuisse_D_,cuisse(D),thigh(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_cuisse_G_,cuisse(G),thigh(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_côté_du_cou_D_,côté du cou(D),side of the neck(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_côté_du_cou_G_,côté du cou(G),side of the neck(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_dessus_de_la_langue,dessus de la langue,above the tongue
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_face_dorsale_main_D_,face dorsale main(D),dorsal aspect of the hand(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_face_dorsale_main_G_,face dorsale main(G),dorsal aspect of the hand(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_fesse_D_,fesse(D),buttock(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_fesse_G_,fesse(G),buttock(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_flanc_D_,flanc(D),flank(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_flanc_G_,flanc(G),flank(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_fosse_iliaque_D_,fosse iliaque(D),iliac fossa(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_fosse_iliaque_G_,fosse iliaque(G),iliac fossa(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_front,front,forehead
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_gencive_inférieure,gencive inférieure,lower gum
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_gencive_supérieure,gencive supérieure,upper gum
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_grande_lèvre_D_,grande lèvre(D),labia majora(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_grande_lèvre_G_,grande lèvre(G),labia majora(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_joue_D_,joue(D),cheek(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_joue_G_,joue(G),cheek(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_joue_interne_D_,joue interne(D),internal cheek(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_joue_interne_G_,joue interne(G),internal cheek(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_lèvre_inferieure_D_,lèvre inferieure(D),bottom lip(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_lèvre_supérieure_D_,lèvre supérieure(D),upper lip(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_nez,nez,nose
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_nulle_part,nulle part,nowhere
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_palais,palais,palace
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_petite_lèvre_D_,petite lèvre(D),labia minora(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_petite_lèvre_G_,petite lèvre(G),labia minora(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_pénis,pénis,penis
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_scrotum,scrotum,scrotum
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_sous_la_langue,sous la langue,under the tongue
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_testicule_D_,testicule(D),testicle(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_testicule_G_,testicule(G),testicle(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_thorax_postérieur_D_,thorax postérieur(D),posterior chest wall(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_thorax_postérieur_G_,thorax postérieur(G),posterior chest wall(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_vagin,vagin,vagina
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_ventre,ventre,belly
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_épaule_D_,épaule(D),shoulder(R)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_épaule_G_,épaule(G),shoulder(L)
+lesions_peau_endroitducorps,lesions_peau,M,À quel endroit est situé chaque lésion?,Where is the affected region located?,lesions_peau_endroitducorps_@_épigastre,épigastre,epigastric
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_0,0,0
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_1,1,1
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_2,2,2
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_3,3,3
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_4,4,4
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_5,5,5
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_6,6,6
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_7,7,7
+lesions_peau_intens,lesions_peau,C,Quelle est l’intensité de la douleur causée par les lésions?,How intense is the pain caused by the rash?,lesions_peau_intens_@_8,8,8
+lesions_peau_plusqu1cm,lesions_peau,C,Est-ce que la ou les lésions sont plus grande que 1 cm?,Is the lesion (or are the lesions) larger than 1cm?,lesions_peau_plusqu1cm_@_N,N,N
+lesions_peau_plusqu1cm,lesions_peau,C,Est-ce que la ou les lésions sont plus grande que 1 cm?,Is the lesion (or are the lesions) larger than 1cm?,lesions_peau_plusqu1cm_@_O,O,O
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_0,0,0
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_1,1,1
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_10,10,10
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_2,2,2
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_3,3,3
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_4,4,4
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_5,5,5
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_6,6,6
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_7,7,7
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_8,8,8
+lesions_peau_prurit,lesions_peau,C,Quel est le niveau de la démangeaisons?,How severe is the itching?,lesions_peau_prurit_@_9,9,9
+lymphoedème,lymphoedème,B,Vous a-t-on déjà retiré les ganglions lors d’une opération dans le passé?,Have you ever had surgery to remove lymph nodes?,lymphoedème,,
+m79.7,m79.7,B,Souffrez-vous de fibromyalgie?,Do you suffer from fibromyalgia?,m79.7,,
+malf_cardiaque,malf_cardiaque,B,Êtes-vous connu pour une malformation cardiaque?,Do you have a known heart defect?,malf_cardiaque,,
+melena,melena,B,Avez-vous eu récemment des selles noires comme du charbon?,Have you recently had stools that were black (like coal)?,melena,,
+menarche_hat,menarche_hat,B,Avez-vous eu vos premières menstruations avant l’âge de 12 ans?,Did you have your first menstrual period before the age of 12?,menarche_hat,,
+momasthma,momasthma,B,Avez-vous une mère qui souffre d’asthme?,Does your mother suffer from asthma?,momasthma,,
+move,move,B,"Faites-vous de l’activité physique régulièrement, soit 4 fois par semaine ou plus?","Do you exercise regularly, 4 times per week or more?",move,,
+msk_dlr,msk_dlr,B,Avez-vous des douleurs musculaires diffuses?,Do you have diffuse (widespread) muscle pain?,msk_dlr,,
+ménorr,ménorr,B,Avez-vous des menstruations très abondantes ou très longues?,Do you have very abundant or very long menstruation periods?,ménorr,,
+naco,naco,B,Prenez-vous des nouveaux anticoagulants oraux?,Are you taking any new oral anticoagulants ((NOACs)?,naco,,
+nau_psy_recent,nau_psy_recent,B,"Avez-vous été traité à l’hôpital récemment pour de la nausée, de l’agitation, une intoxication ou de l’agressivité et reçu un médicament via une voie intra-veineuse ou intra-musculaire?","Have you been treated in hospital recently for nausea, agitation, intoxication or aggressive behavior and received medication via an intravenous or intramuscular route?",nau_psy_recent,,
+nausee,nausee,B,Avez-vous des nausées ou envie de vomir?,Are you feeling nauseous or do you feel like vomiting?,nausee,,
+norvasc,norvasc,B,Prenez-vous un médicaments de la classe des bloqueurs des canaux calciques?,Do you take a calcium channel blockers (medication)?,norvasc,,
+obstipation,obstipation,B,Passez-vous des selles ou des gaz depuis que vos symptômes sont pires?,Have you been able to pass stools or gas since your symptoms increased?,obstipation,,
+oedeme,oedeme,B,Avez-vous de l’enflure à un ou plusieurs endroits sur votre corps?,Do you have swelling in one or more areas of your body?,oedeme,,
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_arrière_de_la_cheville_D_,arrière de la cheville(D),posterior aspect of the ankle(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_arrière_de_la_cheville_G_,arrière de la cheville(G),posterior aspect of the ankle(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_cheville_D_,cheville(D),ankle(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_cheville_G_,cheville(G),ankle(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_coté_lateral_du_pied_D_,coté lateral du pied(D),lateral side of the foot(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_coté_lateral_du_pied_G_,coté lateral du pied(G),lateral side of the foot(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_cuisse_D_,cuisse(D),thigh(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_cuisse_G_,cuisse(G),thigh(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_face_dorsale_du_pied_D_,face dorsale du pied(D),dorsal aspect of the foot(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_face_dorsale_du_pied_G_,face dorsale du pied(G),dorsal aspect of the foot(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_front,front,forehead
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_joue_D_,joue(D),cheek(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_joue_G_,joue(G),cheek(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_mollet_D_,mollet(D),calf(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_mollet_G_,mollet(G),calf(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_nez,nez,nose
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_nulle_part,nulle part,nowhere
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_orteil__1__D_,orteil (1)(D),toe (1)(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_orteil__1__G_,orteil (1)(G),toe (1)(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_orteil__2__D_,orteil (2)(D),toe (2)(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_plante_du_pied_D_,plante du pied(D),sole(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_plante_du_pied_G_,plante du pied(G),sole(L)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_tibia_D_,tibia(D),tibia(R)
+oedeme_endroitducorps,oedeme,M,À quel endroit est situé l’enflure?,Where is the swelling located?,oedeme_endroitducorps_@_tibia_G_,tibia(G),tibia(L)
+osteoporose,osteoporose,B,Êtes-vous traité pour de l’ostéoporose?,Are you being treated for osteoporosis?,osteoporose,,
+pale,pale,B,Avez-vous un teint beaucoup plus pâle que d’habitude?,Is your skin much paler than usual?,pale,,
+palpit,palpit,B,"Avez-vous l’impression que votre coeur bat vite, de façon irrégulière ou ressentez-vous des palpitations?","Do you feel your heart is beating fast (racing), irregularly (missing a beat) or do you feel palpitations?",palpit,,
+paralysie_visage,paralysie_visage,B,"Avez-vous une faiblesse ou une paralysie d’un côté du visage, qui peut être encore présente ou complètement résolue?","Have you had weakness or paralysis on one side of the face, which may still be present or completely resolved?",paralysie_visage,,
+paresthesies_bilat,paresthesies_bilat,B,"Avez-vous présentement ou avez-vous eu récemment des engourdissements, une perte de sensibilité ou des fourmillements, dans les mains, les pieds et autour de la bouche?","Have you recently had numbness, loss of sensation or tingling, in both arms and legs and around your mouth?",paresthesies_bilat,,
+patho_endo,patho_endo,B,Avez-vous une maladie endocrinienne ou un dysfonctionnement hormonal?,Were you diagnosed with endocrine disease or a hormone dysfunction?,patho_endo,,
+pdc,pdc,B,Avez-vous perdu conscience?,Did you lose consciousness?,pdc,,
+perinatality,perinatality,B,Êtes-vous né de façon prématuré ou avez vous souffert de complications à la naissance?,Were you born prematurely or did you suffer any complication at birth?,perinatality,,
+perte_appet,perte_appet,B,Avez-vous une perte d’appétit ou êtes-vous rassasié rapidement?,Have you recently had a loss of appetite or do you get full more quickly then usually?,perte_appet,,
+perte_poids,perte_poids,B,Avez-vous eu une perte de poids involontaire dans les 3 derniers mois?,Have you had an involuntary weight loss over the last 3 months?,perte_poids,,
+pertes_vag,pertes_vag,B,Avez-vous des pertes vaginales?,Have you had any vaginal discharge?,pertes_vag,,
+pls_irreg,pls_irreg,B,Sentez-vous que votre cœur bat de façon très irrégulière ou désorganisée?,Do you feel your heart is beating very irregularly or in a disorganized pattern?,pls_irreg,,
+pneumothorax,pneumothorax,B,Avez-vous des membres de votre famille qui ont déjà fait un pneumothorax?,Have any of your family members ever had a pneumothorax?,pneumothorax,,
+posttus_emesis,posttus_emesis,B,Avez-vous eu des vomissements après des quintes de toux?,Did you vomit after coughing?,posttus_emesis,,
+preg1,preg1,B,Croyez-vous être enceinte ou êtes vous présentement enceinte?,Do you think you are pregnant or are you currently pregnant?,preg1,,
+protu_langue,protu_langue,B,Avez-vous de la difficulté à garder votre langue dans votre bouche?,Do you have trouble keeping your tongue in your mouth?,protu_langue,,
+prurit_nasal,prurit_nasal,B,Avez-vous le nez et/ou le palais qui pique?,Is your nose or the back of your throat itchy?,prurit_nasal,,
+prurit_occ,prurit_occ,B,Avez-vous des démangeaisons importantes au niveau d’un oeil ou des 2 yeux simultanément?,Do you have severe itching in one or both eyes?,prurit_occ,,
+psy_depers,psy_depers,B,Avez-vous l’impression que vous êtes détaché de votre propre corps ou de l’environnement qui vous entoure?,Do you feel like you are detached from your own body or your surroundings?,psy_depers,,
+ptose,ptose,B,Avez-vous de la misère à ouvrir/relever une ou les deux paupières?,Do you have a hard time opening/raising one or both eyelids?,ptose,,
+pyrosis,pyrosis,B,Avez-vous une sensation de brûlure partant du creux de l’estomac et remontant vers la bouche avec même parfois un goût amer associé?,"Do you have a burning sensation that starts in your stomach then goes up into your throat, and can be associated with a bitter taste in your mouth?",pyrosis,,
+rds_anorexie,rds_anorexie,B,Avez-vous remarqué une perte de poids involontaire ou une perte d’appétit qui semble en lien avec votre consultation aujourd’hui?,Have you been unintentionally losing weight or have you lost your appetite?,rds_anorexie,,
+rds_deg,rds_deg,B,"Avez-vous de la fatigue, un malaise généralisé, un inconfort vague, des douleurs musculaires diffuses ou une atteinte de votre état général en lien avec votre consultation aujourd’hui?","Have you noticed any new fatigue, generalized and vague discomfort, diffuse (widespread) muscle aches or a change in your general well-being related to your consultation today?",rds_deg,,
+rds_paralys_gen,rds_paralys_gen,B,"Avez-vous noté une faiblesse ou paralysie d’un ou plusieurs de vos membres ou au niveau du visage, encore présentes ou résolues?","Did you previously, or do you currently, have any weakness/paralysis in one or more of your limbs or in your face?",rds_paralys_gen,,
+rds_paresthesie_gen,rds_paresthesie_gen,B,"Avez-vous présentement ou avez-vous eu récemment des engourdissements, une perte de sensibilité ou des fourmillements, n’importe où sur votre le corps?","Do you currently, or did you ever, have numbness, loss of sensitivity or tingling anywhere on your body?",rds_paresthesie_gen,,
+rds_sg,rds_sg,B,Avez-vous remarqué des saignement ou des bleus inhabituels en lien avec votre consultation aujourd’hui?,Have you noticed any unusual bleeding or bruising related to your consultation today?,rds_sg,,
+rectorragie,rectorragie,B,Avez-vous noté du sang rouge clair ou des caillots de sang dans vos selles?,Have you noticed light red blood or blood clots in your stool?,rectorragie,,
+regard_dévié,regard_dévié,B,Êtes-vous incapable de contrôler la direction de votre regard?,Are you unable to control the direction of your eyes?,regard_dévié,,
+rhino_clair,rhino_clair,B,Avez-vous de la congestion nasale ou le nez qui coule clair?,Do you have nasal congestion or a clear runny nose?,rhino_clair,,
+rhino_pur,rhino_pur,B,Avez-vous un écoulement nasal coloré?,Do you have greenish or yellowish nasal discharge?,rhino_pur,,
+rural,rural,B,Habitez-vous en à la campagne?,Do you live in a rural area?,rural,,
+rx_vasodil,rx_vasodil,B,Prenez-vous un médicament qui vasodilate vos vaisseaux sanguins?,Do you take medication that dilates your blood vessels?,rx_vasodil,,
+s09.90,s09.90,B,Avez-vous déjà eu un trauma crânien?,Have you ever had a head trauma?,s09.90,,
+sahs,sahs,B,A-t-on déjà diagnostiqué chez vous un syndrome d’apnées hypopnées obstructives du sommeil (SAHOS)?,Have you ever been diagnosed with obstructive sleep apnea (OSA)?,sahs,,
+scombroide,scombroide,B,Avez-vous mangé du poisson à chair foncé (tel que le thon) ou fromage suisse avant la réaction?,Did you eat dark-fleshed fish (such as tuna) or Swiss cheese before the reaction occurred?,scombroide,,
+selles_pale,selles_pale,B,Avez-vous les selles pâles et les urines foncées?,Do you have pale stools and dark urine?,selles_pale,,
+sex_vih,sex_vih,B,Avez-vous eu des relations sexuelles avec une partenaire séropositif dans les 12 derniers mois?,Have you had sexual intercourse with an HIV-positive partner in the past 12 months?,sex_vih,,
+sialorhee,sialorhee,B,Avez-vous noté que vous produisez plus de salive que d’habitude?,Have you noticed that you produce more saliva than usual?,sialorhee,,
+smokingpast,smokingpast,B,"Dans le passé, fumiez-vous la cigarette quotidiennement?",Are you a former smoker?,smokingpast,,
+spasme_trapeze,spasme_trapeze,B,"Avez-vous l’impression qu’il y a des muscles spasmés ou endoloris, dans votre cou, qui vous empêchent de tourner votre tête d’un bord ou de l’autre?",Do you feel that muscle spasms or soreness in your neck are keeping you from turning your head to one side?,spasme_trapeze,,
+spasmes_msk,spasmes_msk,B,"Avez-vous des spasmes musculaires très incommodants au niveau du visage, du cou ou de tout autre endroit de votre corps?","Do you have annoying muscle spasms in your face, neck or any other part of your body?",spasmes_msk,,
+stridor,stridor,B,Avez-vous noté un bruit respiratoire aigu surtout à l’inspiration?,Have you noticed a high pitched sound when breathing in?,stridor,,
+suburb,suburb,B,Habitez-vous en banlieue?,Do you live in the suburbs?,suburb,,
+surg1,surg1,B,Avez-vous subi une intervention chirurgicale dans le dernier mois?,Have you had surgery within the last month?,surg1,,
+synd_nephro,synd_nephro,B,Avez-vous un problème rénal qui se caractérise par la perte de protéines via les reins?,Do you have a known kidney problem resulting in an inability to retain proteins?,synd_nephro,,
+tagri,tagri,B,Travaillez-vous dans le domaine de l’agriculture?,Do you work in agriculture?,tagri,,
+tconst,tconst,B,Travaillez-vous dans le domaine de la construction?,Do you work in construction?,tconst,,
+tmine,tmine,B,Travaillez-vous dans le domaine minier?,Do you work in the mining sector?,tmine,,
+toux,toux,B,Avez-vous de la toux?,Do you have a cough?,toux,,
+toux_Aboy,toux_Aboy,B,Avez-vous une toux aboyante?,Does the person have a whooping cough?,toux_Aboy,,
+toux_sev,toux_sev,B,Avez-vous des quintes de toux intenses et dérangeantes?,Do you have intense coughing fits?,toux_sev,,
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AfriqN,AfriqN,AfriqN
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AfriqO,AfriqO,AfriqO
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AfriqSS,AfriqSS,AfriqSS
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AmerC,AmerC,AmerC
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AmerN,AmerN,AmerN
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AmerS,AmerS,AmerS
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_Asie,Asie,Asie
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_AsieSSE,AsieSSE,AsieSSE
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_Cara,Cara,Cara
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_Euro,Euro,Euro
+trav1,trav1,C,Avez-vous voyagé dans les 4 dernières semaines?,Have you traveled out of the country in the last 4 weeks?,trav1_@_N,N,N
+trismus,trismus,B,Avez-vous soudainement de la difficulté ou une incapacité à ouvrir la bouche ou même de la douleur au niveau de la mâchoire lors de l’ouverture de celle-ci?,Do you suddenly have difficulty or an inability to open your mouth or have jaw pain when opening it?,trismus,,
+ulcères_bouche,ulcères_bouche,B,Avez-vous des ulcères ou des lésions ulcérées et douloureuses dans la bouche?,Do you have painful mouth ulcers or sores?,ulcères_bouche,,
+urban1,urban1,B,Habitez-vous en dans une grande ville?,Do you live in in a big city?,urban1,,
+v85.0,v85.0,B,"Avez-vous un IMC plus petit que 18.5, soit un poids plus petit que la normal?","Is your BMI less than 18.5, or are you underweight?",v85.0,,
+vaccination,vaccination,B,Vos vaccins sont-ils à jour?,Are your vaccinations up to date?,vaccination,,
+vo_sg,vo_sg,B,Avez-vous récemment remarqué du sang dans vos vomissements ou quelque chose qui ressemble à des grains de café?,Have you recently thrown up blood or something resembling coffee beans?,vo_sg,,
+vo_violent,vo_violent,B,Avez-vous eu plusieurs vomissements ou fait plusieurs efforts pour vomir?,Have you vomited several times or have you made several efforts to vomit?,vo_violent,,
+volume_parole,volume_parole,B,"Avez-vous remarqué que votre ton de voix a changé, soit diminué, s’est éteint ou est devenu plus grave?","Have you noticed that the tone of your voice has become deeper, softer or hoarse?",volume_parole,,
+wakeup,wakeup,B,"Avez-vous pris récemment, en vente libre, des décongestionnant ou autres substances pouvant avoir des effets stimulants ?",Have you recently taken decongestants or other substances that may have stimulant effects?,wakeup,,
+wheez,wheez,B,Avez-vous noté un un son aigu lorsque vous sortez l’air de vos poumons?,Have you noticed a wheezing sound when you exhale?,wheez,,
+ww_bouffe,ww_bouffe,B,Avez-vous des symptômes qui sont pires après les repas?,Do you have symptoms that get worse after eating?,ww_bouffe,,
+ww_bouger,ww_bouger,B,Avez-vous une douleur qui est pire lors des mouvements?,Do you have pain that is increased with movement?,ww_bouger,,
+ww_dd,ww_dd,B,Vos symptômes sont-ils pire en position couchée et améliorés en position assise?,Are your symptoms worse when lying down and alleviated while sitting up?,ww_dd,,
+ww_effort,ww_effort,B,Avez-vous des symptômes qui sont pires lors de l’effort physique et soulagés par le repos?,Do you have symptoms that are increased with physical exertion but alleviated with rest?,ww_effort,,
+ww_nuit,ww_nuit,B,Ressentez vous davantage vos symptômes la nuit?,Are your symptoms more prominent at night?,ww_nuit,,
+ww_respi,ww_respi,B,Avez-vous une douleur qui est pire à l’inspiration profonde?,Do you have pain that is increased when you breathe in deeply?,ww_respi,,
+ww_valsalva,ww_valsalva,B,"Les symptômes ou la douleur sont-ils augmentés avec la toux, un effort comme lever un poids ou quand vous forcez pour aller à la selle?","Are the symptoms or pain increased with coughing, with an effort like lifting a weight or from forcing a bowel movement?",ww_valsalva,,
+z77.22,z77.22,B,Êtes-vous en contact régulièrement avec de la fumée de cigarette sans être vous-même fumeur?,Are you exposed to secondhand cigarette smoke on a daily basis?,z77.22,,
+z80.0,z80.0,B,Avez-vous des membre de votre famille proche qui sont atteints du cancer du pancréas?,Are there members of your family who have been diagnosed with pancreatic cancer?,z80.0,,
+z80.1,z80.1,B,Avez-vous des membres de votre famille ayant eu le cancer des poumons?,Do you have family members who have had lung cancer?,z80.1,,
+z82.49,z82.49,B,Avez-vous des membres de votre famille proche qui ont eu un problème de maladie cardiovasculaire avant l’âge de 50 ans?,Do you have close family members who had a cardiovascular disease problem before the age of 50?,z82.49,,
+z84.89,z84.89,B,Êtes-vous susceptible de développer plus facilement que la population générale des allergies courantes?,Are you more likely to develop common allergies than the general population?,z84.89,,
+z92.25,z92.25,B,Êtes-vous immunosupprimé?,Are you immunosuppressed?,z92.25,,
